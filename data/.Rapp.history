@@ -1,0 +1,19 @@
+read.csv("full_data_phil_trans.csv")
+data<-read.csv("full_data_phil_trans.csv")
+head(data)
+arts<-paste(data$Author, data$Year, data$Journal)
+arts
+length(unique(arts))
+as.numeric(arts)
+as.factor(arts)
+as.numeric(as.factor(arts))
+paste0("art.", as.numeric(as.factor(arts)))
+data$Article.IDpaste0("art.", as.numeric(as.factor(arts)))
+data$Article.ID<-paste0("art.", as.numeric(as.factor(arts)))
+head(data)
+data<-read.csv("full_data_phil_trans.csv")#
+head(data)#
+arts<-paste(data$Author, data$Year, data$Journal)#
+data$Article.ID<-paste0("a", as.numeric(as.factor(arts)))#
+head(data)
+write.table(data, file="data.csv", sep=",", row.names=F, col.names=names(data))

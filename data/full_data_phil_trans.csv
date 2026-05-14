@@ -1,0 +1,1164 @@
+Article.ID,Author,Journal,Year,Consumer.Sp,Habitat,Trophic.Level,Defence,Comparison.ID,mean,n,sd,Trait,n_foods,treat,Trait_type,M.F
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c1,89.03225806,5,7.096774194,Egg.Production,1,single,Repro,F
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c1,50.96774194,5,10.96774194,Egg.Production,1,single,Repro,F
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c1,72.90322581,5,4.516129032,Egg.Production,1,single,Repro,F
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c1,34.19354839,5,14.83870968,Egg.Production,2,mix,Repro,F
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c1,120.9677419,5,12.25806452,Egg.Production,2,mix,Repro,F
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c1,19.35483871,5,6.451612903,Egg.Production,2,mix,Repro,F
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c1,41.29032258,5,6.451612903,Egg.Production,3,mix,Repro,F
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c326,6.2,5,0.2,Development.Time,1,single,DevTime,any
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c326,7,5,0.2,Development.Time,1,single,DevTime,any
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c326,6.7,5,0.2,Development.Time,1,single,DevTime,any
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c326,7.1,5,0.4,Development.Time,2,mix,DevTime,any
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c326,6.6,5,0.2,Development.Time,2,mix,DevTime,any
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c326,7.1,5,0.2,Development.Time,2,mix,DevTime,any
+a1,Alajmi,Aquaculture Research,2015,Parvocalanus_crassirostris,Marine,Primary.Consumer,N,c326,7.1,5,0.2,Development.Time,3,mix,DevTime,any
+a2,Aldana Aranda,Aquaculture,1989,Strombus_gigas,Marine,Primary.Consumer,N,c2,37.54,30,12.4,Growth.Rate,1,single,Size,any
+a2,Aldana Aranda,Aquaculture,1989,Strombus_gigas,Marine,Primary.Consumer,N,c2,35.84,30,9.94,Growth.Rate,1,single,Size,any
+a2,Aldana Aranda,Aquaculture,1989,Strombus_gigas,Marine,Primary.Consumer,N,c2,39.69,30,11.93,Growth.Rate,2,mix,Size,any
+a3,Aquilino,Marine Ecology Progress Series,2012,Pachygrapsus_crassipes,Marine,Primary.Consumer,N,c3,1.688787185,19,0.621347835,Size,1,single,Size,any
+a3,Aquilino,Marine Ecology Progress Series,2012,Pachygrapsus_crassipes,Marine,Primary.Consumer,N,c3,0.938215103,28,0.689649521,Size,1,single,Size,any
+a3,Aquilino,Marine Ecology Progress Series,2012,Pachygrapsus_crassipes,Marine,Primary.Consumer,N,c3,1.459954233,29,0.653869889,Size,1,single,Size,any
+a3,Aquilino,Marine Ecology Progress Series,2012,Pachygrapsus_crassipes,Marine,Primary.Consumer,N,c3,0.576659039,25,0.582944927,Size,1,single,Size,any
+a3,Aquilino,Marine Ecology Progress Series,2012,Pachygrapsus_crassipes,Marine,Primary.Consumer,N,c3,1.38215103,25,0.672628762,Size,1,single,Size,any
+a3,Aquilino,Marine Ecology Progress Series,2012,Pachygrapsus_crassipes,Marine,Primary.Consumer,N,c3,1.752860412,27,0.56007537,Size,5,mix,Size,any
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c318,6.13,52,0.49989999,Immature.Development.Time,1,single,DevTime,any
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c318,6.97,70,0.249198716,Immature.Development.Time,1,single,DevTime,any
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c318,6.55,56,0.519133894,Immature.Development.Time,2,mix,DevTime,any
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c4,10.09,22,6.919689299,Male.Adult.Longevity,1,single,Longevity,M
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c4,14.46,26,4,Male.Adult.Longevity,1,single,Longevity,M
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c4,15.56,9,3.84666089,Male.Adult.Longevity,2,mix,Longevity,M
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c5,15.53,30,5.708274696,Female.Adult.Longevity,1,single,Longevity,F
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c5,16.61,44,4.459058197,Female.Adult.Longevity,1,single,Longevity,F
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c5,16.91,47,5.358040687,Female.Adult.Longevity,2,mix,Longevity,F
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c6,82.17,30,38.71933496,Egg.Production,1,single,Repro,F
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c6,98.23,44,21.50839836,Egg.Production,1,single,Repro,F
+a4,Asgari,Biological and Microbial Control,2020,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c6,110.21,47,29.43531213,Egg.Production,2,mix,Repro,F
+a5,Azevedo,Biological control,2019,Macrocheles_embersoni,Terrestrial,Secondary.Consumer,N,c7,1.1,10,0.3,Fecundity,1,single,Repro,F
+a5,Azevedo,Biological control,2019,Macrocheles_embersoni,Terrestrial,Secondary.Consumer,N,c7,1,10,0.42,Fecundity,1,single,Repro,F
+a5,Azevedo,Biological control,2019,Macrocheles_embersoni,Terrestrial,Secondary.Consumer,N,c7,1.3,10,0.51,Fecundity,2,mix,Repro,F
+a6,Basch,Marine Biology,1996,Asterina_miniata,Marine,Primary.Consumer,N,c8,1141.826914,15,164.0797528,Body.Length,1,single,Size,any
+a6,Basch,Marine Biology,1996,Asterina_miniata,Marine,Primary.Consumer,N,c8,1085.708662,15,138.2407936,Body.Length,2,mix,Size,any
+a7,Basen,Physiological Ecology,2012,Corbicula_fluminea,Marine,Primary.Consumer,N,c9,0.004178273,10,0.003203,Growth.Rate,1,single,Size,any
+a7,Basen,Physiological Ecology,2012,Corbicula_fluminea,Marine,Primary.Consumer,N,c9,0.003551532,10,0.001532,Growth.Rate,1,single,Size,any
+a7,Basen,Physiological Ecology,2012,Corbicula_fluminea,Marine,Primary.Consumer,N,c9,0.00689415,10,0.003134,Growth.Rate,1,single,Size,any
+a7,Basen,Physiological Ecology,2012,Corbicula_fluminea,Marine,Primary.Consumer,N,c9,0.005362117,10,0.003064,Growth.Rate,3,mix,Size,any
+a8,Beckman,Environmental Entomolgy,2003,Tenodera_aridifolia_sinensis,Terrestrial,Secondary.Consumer,N,c10,0.479007128,12,0.246993158,Mass.gain,1,single,Size,any
+a8,Beckman,Environmental Entomolgy,2003,Tenodera_aridifolia_sinensis,Terrestrial,Secondary.Consumer,N,c10,1.694831324,13,0.193507798,Mass.gain,1,single,Size,any
+a8,Beckman,Environmental Entomolgy,2003,Tenodera_aridifolia_sinensis,Terrestrial,Secondary.Consumer,N,c10,2.014910242,13,0.24729442,Mass.gain,2,mix,Size,any
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c11,11.70014951,50,5.610421038,Egg.production,1,single,Repro,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c11,8.487502717,50,4.529697338,Egg.production,1,single,Repro,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c11,5.476693203,50,3.854733436,Egg.production,1,single,Repro,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c11,11.40162391,50,4.139933323,Egg.production,2,mix,Repro,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c11,9.124547887,50,3.572963789,Egg.production,2,mix,Repro,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c11,8.321886384,50,4.856925174,Egg.production,2,mix,Repro,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c12,0.451555092,50,0.089935348,Growth.rate,1,single,Size,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c12,0.333917113,50,0.067493654,Growth.rate,1,single,Size,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c12,0.222139027,50,0.093896783,Growth.rate,1,single,Size,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c12,0.445442032,50,0.053164747,Growth.rate,2,mix,Size,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c12,0.390004022,50,0.058326337,Growth.rate,2,mix,Size,F
+a9,Bednarska,Journal of Plankton Research,2014,Daphnia_magna,Marine,Primary.Consumer,N,c12,0.319710942,50,0.044969957,Growth.rate,2,mix,Size,F
+a10,Bernays,Ecology,1994,Schistocerca_americana,Terrestrial,Primary.Consumer,N,c13,77.17768128,19,15.26342965,Growth.Rate,1,single,Size,F
+a10,Bernays,Ecology,1994,Schistocerca_americana,Terrestrial,Primary.Consumer,N,c13,72.36277571,19,14.49815698,Growth.Rate,1,single,Size,F
+a10,Bernays,Ecology,1994,Schistocerca_americana,Terrestrial,Primary.Consumer,N,c13,77.07810928,19,16.7917632,Growth.Rate,1,single,Size,F
+a10,Bernays,Ecology,1994,Schistocerca_americana,Terrestrial,Primary.Consumer,N,c13,90.24820014,19,18.31346145,Growth.Rate,3,mix,Size,F
+a10,Bernays,Ecology,1994,Schistocerca_americana,Terrestrial,Primary.Consumer,N,c14,32.95311775,15,6.727613935,Growth.Rate,1,single,Size,F
+a10,Bernays,Ecology,1994,Schistocerca_americana,Terrestrial,Primary.Consumer,N,c14,40.90688715,15,7.402520987,Growth.Rate,1,single,Size,F
+a10,Bernays,Ecology,1994,Schistocerca_americana,Terrestrial,Primary.Consumer,N,c14,65.26814061,15,12.11321616,Growth.Rate,3,mix,Size,F
+a11,Bilde,Entomologica Experimentalis et Applicata,1994,Agonum_dorsale,Terrestrial,Secondary.Consumer,N,c15,1,10,1.247,Egg.Production,1,single,Repro,F
+a11,Bilde,Entomologica Experimentalis et Applicata,1994,Agonum_dorsale,Terrestrial,Secondary.Consumer,N,c15,2.9,10,2.558,Egg.Production,1,single,Repro,F
+a11,Bilde,Entomologica Experimentalis et Applicata,1994,Agonum_dorsale,Terrestrial,Secondary.Consumer,N,c15,0.5,10,0.707,Egg.Production,1,single,Repro,F
+a11,Bilde,Entomologica Experimentalis et Applicata,1994,Agonum_dorsale,Terrestrial,Secondary.Consumer,N,c15,5.6,10,2.716,Egg.Production,3,mix,Repro,F
+a12,Blanchard,Aquatic Living Resources,2008,Crassostrea_gigas,Marine,Primary.Consumer,N,c16,232.4,300,39.084,Size,1,single,Size,any
+a12,Blanchard,Aquatic Living Resources,2008,Crassostrea_gigas,Marine,Primary.Consumer,N,c16,199.7,300,33.929,Size,1,single,Size,any
+a12,Blanchard,Aquatic Living Resources,2008,Crassostrea_gigas,Marine,Primary.Consumer,N,c16,172.4,300,24.364,Size,1,single,Size,any
+a12,Blanchard,Aquatic Living Resources,2008,Crassostrea_gigas,Marine,Primary.Consumer,N,c16,260.9,300,44.574,Size,3,mix,Size,any
+a12,Blanchard,Aquatic Living Resources,2008,Crepidula_fornicata,Marine,Primary.Consumer,N,c17,738.8,60,47.176,Size,1,single,Size,any
+a12,Blanchard,Aquatic Living Resources,2008,Crepidula_fornicata,Marine,Primary.Consumer,N,c17,730.7,60,58.193,Size,1,single,Size,any
+a12,Blanchard,Aquatic Living Resources,2008,Crepidula_fornicata,Marine,Primary.Consumer,N,c17,718.8,60,50.116,Size,1,single,Size,any
+a12,Blanchard,Aquatic Living Resources,2008,Crepidula_fornicata,Marine,Primary.Consumer,N,c17,796.1,60,50.545,Size,3,mix,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c18,6.178571429,38,2.161331438,Egg.Production,1,single,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c18,5.196428571,38,1.551725135,Egg.Production,1,single,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c18,7.910714286,38,1.49630638,Egg.Production,2,mix,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c23,1.714285714,38,0.886700077,Egg.Production,1,single,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c23,3.642857143,38,1.551725135,Egg.Production,1,single,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c23,3.446428571,38,1.052956342,Egg.Production,2,mix,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c24,3.571428571,38,1.219212606,Egg.Production,1,single,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c24,5.267857143,38,1.551725135,Egg.Production,1,single,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c24,5.517857143,38,1.219212606,Egg.Production,2,mix,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c25,4.785714286,38,1.939656419,Egg.Production,1,single,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c25,6.232142857,38,1.385468871,Egg.Production,1,single,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c25,7.178571429,38,1.551725135,Egg.Production,2,mix,Repro,F
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c19,1.224232866,38,0.085258997,Size,1,single,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c19,1.279177517,38,0.109131517,Size,1,single,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c19,1.306651311,38,0.095490077,Size,2,mix,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c20,1.32098827,38,0.068207198,Size,1,single,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c20,1.372634776,38,0.08867391,Size,1,single,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c20,1.392417785,38,0.071613005,Size,2,mix,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c21,1.401317498,38,0.102306244,Size,1,single,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c21,1.461756615,38,0.10231535,Size,1,single,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c21,1.514504948,38,0.122772956,Size,2,mix,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c22,1.44615204,38,0.09890499,Size,1,single,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c22,1.420877501,38,0.126183316,Size,1,single,Size,any
+a13,Boersma,Hydrobiologia,1995,Daphnia_galeata,Marine,Primary.Consumer,N,c22,1.603296679,38,0.095485524,Size,2,mix,Size,any
+a14,Borg,Wildlife Biology,1999,Perdix_perdix,Terrestrial,Secondary.Consumer,N,c26,20.73207547,15,1.680215959,Live.Weight,1,single,Size,any
+a14,Borg,Wildlife Biology,1999,Perdix_perdix,Terrestrial,Secondary.Consumer,N,c26,21.63018868,15,1.680215959,Live.Weight,2,mix,Size,any
+a15,Bouvet,Biological Control,2019,Scymus_interruptus,Terrestrial,Secondary.Consumer,N,c27,115.69,14,5.840993066,Fecundity,1,single,Repro,F
+a15,Bouvet,Biological Control,2019,Scymus_interruptus,Terrestrial,Secondary.Consumer,N,c27,158.69,14,6.886602936,Fecundity,1,single,Repro,F
+a15,Bouvet,Biological Control,2019,Scymus_interruptus,Terrestrial,Secondary.Consumer,N,c27,174,14,7.968268319,Fecundity,2,mix,Repro,F
+a15,Bouvet,Biological Control,2019,Scymus_subvillosus,Terrestrial,Secondary.Consumer,N,c28,261.29,15,15.04146269,Fecundity,1,single,Repro,F
+a15,Bouvet,Biological Control,2019,Scymus_subvillosus,Terrestrial,Secondary.Consumer,N,c28,272.86,15,12.60938539,Fecundity,1,single,Repro,F
+a15,Bouvet,Biological Control,2019,Scymus_subvillosus,Terrestrial,Secondary.Consumer,N,c28,361.82,15,12.04813679,Fecundity,2,mix,Repro,F
+a15,Bouvet,Biological Control,2019,Scymus_interruptus,Terrestrial,Secondary.Consumer,N,c300,17.78,51,1.272792206,Developmental.Time,1,single,DevTime,any
+a15,Bouvet,Biological Control,2019,Scymus_interruptus,Terrestrial,Secondary.Consumer,N,c300,16.82,51,1.13137085,Developmental.Time,1,single,DevTime,any
+a15,Bouvet,Biological Control,2019,Scymus_interruptus,Terrestrial,Secondary.Consumer,N,c300,16.77,51,0.848528137,Developmental.Time,2,mix,DevTime,any
+a15,Bouvet,Biological Control,2019,Scymus_subvillosus,Terrestrial,Secondary.Consumer,N,c301,17.42,51,1.626345597,Developmental.Time,1,single,DevTime,any
+a15,Bouvet,Biological Control,2019,Scymus_subvillosus,Terrestrial,Secondary.Consumer,N,c301,16.13,51,1.13137085,Developmental.Time,1,single,DevTime,any
+a15,Bouvet,Biological Control,2019,Scymus_subvillosus,Terrestrial,Secondary.Consumer,N,c301,16.51,51,1.343502884,Developmental.Time,2,mix,DevTime,any
+a16,Brugnano,Chemistry and Ecology,2008,Pseudocyclops_xiphophorus,Marine,Primary.Consumer,N,c29,2.74,5,1.8,Daily.Egg.Production,1,single,Repro,F
+a16,Brugnano,Chemistry and Ecology,2008,Pseudocyclops_xiphophorus,Marine,Primary.Consumer,N,c29,3.23,5,1.2,Daily.Egg.Production,4,mix,Repro,F
+a17,Brundu,Aquaculture,2016,Paracentrotus_lividus,Marine,Primary.Consumer,N,c30,6.4,200,2.821347196,Diameter,1,single,Size,any
+a17,Brundu,Aquaculture,2016,Paracentrotus_lividus,Marine,Primary.Consumer,N,c30,6.6,200,2.821347196,Diameter,2,mix,Size,any
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c31,33.3,20,11.85620513,Female.Longevity,1,single,Longevity,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c31,17.9,20,2.658928356,Female.Longevity,1,single,Longevity,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c31,52.1,20,20.53041402,Female.Longevity,1,single,Longevity,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c31,14.4,20,1.787148567,Female.Longevity,2,mix,Longevity,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c31,49.9,20,7.322950225,Female.Longevity,2,single,Longevity,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c31,48.7,20,14.51513348,Female.Longevity,2,single,Longevity,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c31,48,20,16.69458295,Female.Longevity,3,single,Longevity,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c32,11.8,20,10.06905656,Fecundity,1,single,Repro,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c32,46.5,20,19.00479939,Fecundity,1,single,Repro,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c32,190.3,20,33.12763197,Fecundity,1,single,Repro,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c32,38.2,20,7.628073151,Fecundity,2,mix,Repro,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c32,187.7,20,23.36369834,Fecundity,2,single,Repro,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c32,185.2,20,14.16642157,Fecundity,2,single,Repro,F
+a18,Calixto,Biocontrol Science and Technology,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c32,193.6,20,17.87148567,Fecundity,3,single,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,21,24,6.276941931,Egg.Production,1,single,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,18.65,24,4.527692569,Egg.Production,1,single,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,13,24,4.893873721,Egg.Production,1,single,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,10.025,24,3.962322551,Egg.Production,1,single,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,30.25,24,13.4591976,Egg.Production,2,mix,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,30.325,24,7.010706099,Egg.Production,2,mix,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,23.55,24,6.614378278,Egg.Production,2,mix,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,18.825,24,5.361902647,Egg.Production,2,mix,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,16.55,24,4.701063709,Egg.Production,2,mix,Repro,F
+a19,Camus,Aquaculture,2009,Bestiolina_similis,Marine,Primary.Consumer,N,c33,44.1,24,8.529361055,Egg.Production,3,mix,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,5.703225806,17,1.961290323,Female.Longevity,1,single,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,6.348387097,17,2.477419355,Female.Longevity,1,single,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,3.070967742,17,0.929032258,Female.Longevity,1,single,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,3.561290323,17,1.135483871,Female.Longevity,1,single,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,4.387096774,17,1.135483871,Female.Longevity,2,mix,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,5.677419355,17,1.548387097,Female.Longevity,2,mix,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,5.316129032,17,1.44516129,Female.Longevity,2,mix,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,3.148387097,17,1.135483871,Female.Longevity,2,mix,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,3.406451613,17,1.238709677,Female.Longevity,2,mix,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c34,5.909677419,17,1.44516129,Female.Longevity,3,mix,Longevity,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,85.5907781,10,20.23054755,Egg.Production,1,single,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,84.03458213,10,14.00576369,Egg.Production,1,single,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,20.74927954,10,7.780979827,Egg.Production,1,single,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,32.68011527,10,12.44956772,Egg.Production,1,single,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,118.2708934,10,24.89913545,Egg.Production,2,mix,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,99.59654179,10,17.11815562,Egg.Production,2,mix,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,127.6080692,10,32.68011527,Egg.Production,2,mix,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,46.68587896,10,14.00576369,Egg.Production,2,mix,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,60.69164265,10,15.56195965,Egg.Production,2,mix,Repro,F
+a20,Camus,Aquaculture Research,2010,Bestiolina_similis,Marine,Primary.Consumer,N,c35,156.1383285,10,34.23631124,Egg.Production,3,mix,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,13.56,6,2.435803897,Daily.Naupliar.Production,1,single,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,9.04,6,1.826852923,Daily.Naupliar.Production,1,single,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,8.82,6,3.897286235,Daily.Naupliar.Production,1,single,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,7.52,6,3.044754871,Daily.Naupliar.Production,1,single,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,19.44,6,3.77549604,Daily.Naupliar.Production,2,mix,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,11.22,6,3.77549604,Daily.Naupliar.Production,2,mix,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,10.02,6,3.653705846,Daily.Naupliar.Production,2,mix,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,8.33,6,2.922964676,Daily.Naupliar.Production,2,mix,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,5.88,6,1.948643118,Daily.Naupliar.Production,2,mix,Repro,F
+a21,Camus,Aquaculture Research,2012,Euterpina_acutifrons,Marine,Primary.Consumer,N,c36,11,6,4.628027404,Daily.Naupliar.Production,3,mix,Repro,F
+a22,Caramujo,Journal of the North American Benthological Society,2005,Attheyella_trispinosa,Marine,Primary.Consumer,N,c37,622.55,11,6.06,Size,1,single,Size,any
+a22,Caramujo,Journal of the North American Benthological Society,2005,Attheyella_trispinosa,Marine,Primary.Consumer,N,c37,629.7,9,11.14,Size,1,single,Size,any
+a22,Caramujo,Journal of the North American Benthological Society,2005,Attheyella_trispinosa,Marine,Primary.Consumer,N,c37,682.45,9,12.19,Size,2,mix,Size,any
+a22,Caramujo,Journal of the North American Benthological Society,2005,Attheyella_trispinosa,Marine,Primary.Consumer,N,c37,683.25,9,10.47,Size,3,mix,Size,any
+a22,Caramujo,Journal of the North American Benthological Society,2005,Bryocamptus_minutus,Marine,Primary.Consumer,N,c38,496.45,11,5.92,Size,1,single,Size,any
+a22,Caramujo,Journal of the North American Benthological Society,2005,Bryocamptus_minutus,Marine,Primary.Consumer,N,c38,489.7,11,11.13,Size,1,single,Size,any
+a22,Caramujo,Journal of the North American Benthological Society,2005,Bryocamptus_minutus,Marine,Primary.Consumer,N,c38,491.2,11,11.3,Size,2,mix,Size,any
+a22,Caramujo,Journal of the North American Benthological Society,2005,Bryocamptus_minutus,Marine,Primary.Consumer,N,c38,493.05,11,10.57,Size,3,mix,Size,any
+a23,Carbajal-Miranda,Journal of Shellfish Research,2005,Haliotis_rufescens,Marine,Primary.Consumer,N,c39,16.19,30,47.12019206,Live.Weight,1,single,Size,any
+a23,Carbajal-Miranda,Journal of Shellfish Research,2005,Haliotis_rufescens,Marine,Primary.Consumer,N,c39,9.23,30,26.06419767,Live.Weight,1,single,Size,any
+a23,Carbajal-Miranda,Journal of Shellfish Research,2005,Haliotis_rufescens,Marine,Primary.Consumer,N,c39,9.99,30,36.78067563,Live.Weight,2,mix,Size,any
+a24,Carcamo,Aquaculture,2005,Loxechinus_albus,Marine,Primary.Consumer,N,c40,313.1578947,60,36.84210526,Echinus.Rudiment.Diameter,1,single,Size,any
+a24,Carcamo,Aquaculture,2005,Loxechinus_albus,Marine,Primary.Consumer,N,c40,320.1754386,60,33.33333333,Echinus.Rudiment.Diameter,2,mix,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c42,1.927455,14,0.4885385,Growth.Rate.17C,1,single,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c42,1.026543,14,0.4195728,Growth.Rate.17C,1,single,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c42,2.041206,14,0.4138956,Growth.Rate.17C,2,mix,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c43,1.975172,14,0.1443677,Growth.Rate.17-25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c43,0.8390385,14,0.3897141,Growth.Rate.17-25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c43,1.908232,14,0.4094208,Growth.Rate.17-25C,2,mix,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c44,0.7768633,14,0.1163905,Growth.Rate.17-25C+25CHW,1,single,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c44,0.7861885,14,0.3701063,Growth.Rate.17-25C+25CHW,1,single,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c44,1.316755,14,0.3595617,Growth.Rate.17-25C+25CHW,2,mix,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c45,0.5859565,14,0.1875625,Growth.Rate.25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c45,0.2765361,14,0.1640722,Growth.Rate.25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Discoglossus_galganoi,Marine,Secondary.Consumer,N,c45,1.419016,14,0.3320197,Growth.Rate.25C,2,mix,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c46,4.053608,14,1.345499,Growth.Rate.17C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c46,4.89059,14,1.442211,Growth.Rate.17C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c46,5.358315,14,2.131906,Growth.Rate.17C,2,mix,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c47,5.834243,14,1.850322,Growth.Rate.17-25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c47,7.2128,14,0.3666345,Growth.Rate.17-25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c47,7.83643,14,2.833943,Growth.Rate.17-25C,2,mix,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c48,6.958423,14,1.369672,Growth.Rate.17-25C+25CHW,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c48,7.450757,14,2.611689,Growth.Rate.17-25C+25CHW,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c48,8.172857,14,2.993943,Growth.Rate.17-25C+25CHW,2,mix,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c49,6.285557,14,2.066121,Growth.Rate.25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c49,9.871453,14,1.451441,Growth.Rate.25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_arborea,Marine,Secondary.Consumer,N,c49,9.1001,14,2.072974,Growth.Rate.25C,2,mix,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c50,4.578387,7,1.050434,Growth.Rate.17C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c50,2.98174,7,0.3746435,Growth.Rate.17C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c50,4.978697,7,0.9750267,Growth.Rate.17C,2,mix,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c51,1.918064,7,0.6773571,Growth.Rate.17-25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c51,4.695207,7,0.6532762,Growth.Rate.17-25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c51,6.451725,7,0.791665,Growth.Rate.17-25C,2,mix,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c52,3.593923,7,0.7389942,Growth.Rate.17-25C+25CHW,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c52,7.11505,7,1.094636,Growth.Rate.17-25C+25CHW,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c52,8.999273,7,0.6158954,Growth.Rate.17-25C+25CHW,2,mix,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c53,3.706705,7,0.7987548,Growth.Rate.25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c53,7.821442,7,0.7724227,Growth.Rate.25C,1,single,Size,any
+a25,Carreira,Ecology,2016,Hyla_meridionalis,Marine,Secondary.Consumer,N,c53,9.40512,7,1.966068,Growth.Rate.25C,2,mix,Size,any
+a26,Carreira,PLOS One,2017,Procambarus_clarkii,Marine,Secondary.Consumer,N,c41,8.051392,5,0.6768073,Juvenile.Growth.Rate.17-25C,1,single,Size,M/F
+a26,Carreira,PLOS One,2017,Procambarus_clarkii,Marine,Secondary.Consumer,N,c41,4.38972,10,5.674908,Juvenile.Growth.Rate.17-25C,1,single,Size,M/F
+a26,Carreira,PLOS One,2017,Procambarus_clarkii,Marine,Secondary.Consumer,N,c41,12.91221,10,7.269462,Juvenile.Growth.Rate.17-25C,2,mix,Size,M/F
+a27,Castilla-Gavilan,Aquaculture,2018,Paracentrotus_lividus,Marine,Primary.Consumer,N,c54,374.0449572,30,45.09299156,Body.Length,1,single,Size,any
+a27,Castilla-Gavilan,Aquaculture,2018,Paracentrotus_lividus,Marine,Primary.Consumer,N,c54,456.7384126,30,34.26901196,Body.Length,1,single,Size,any
+a27,Castilla-Gavilan,Aquaculture,2018,Paracentrotus_lividus,Marine,Primary.Consumer,N,c54,412.7360255,30,43.28717298,Body.Length,1,single,Size,any
+a27,Castilla-Gavilan,Aquaculture,2018,Paracentrotus_lividus,Marine,Primary.Consumer,N,c54,462.6067237,30,64.93075946,Body.Length,3,mix,Size,any
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c320,13.8,40,0.6244998,Development.Time,1,single,DevTime,any
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c320,13,45,0.663324958,Development.Time,2,mix,DevTime,any
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c321,16.6,38,0.608276253,Development.Time,1,single,DevTime,any
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c321,15.9,43,1.29614814,Development.Time,2,mix,DevTime,any
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c55,12,30,5.923681288,Female.Longevity,1,single,Longevity,F
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c55,14.2,31,7.668115805,Female.Longevity,2,mix,Longevity,F
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c55,13.1,25,7.348469228,Female.Longevity,2,mix,Longevity,F
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c56,12,30,6.462197769,Male.Longevity,1,single,Longevity,M
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c56,12.1,31,8.215838363,Male.Longevity,2,mix,Longevity,M
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c56,12.2,25,8.328265125,Male.Longevity,2,mix,Longevity,M
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c57,20.2,30,6.462197769,Egg.Production,1,single,Repro,F
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c57,29,31,23.55206997,Egg.Production,2,mix,Repro,F
+a28,Chinajariyawong,Journal of the Australian Entomological Society,1987,Deraeocoris_signatus,Terrestrial,Secondary.Consumer,N,c57,38.5,25,43.60091742,Egg.Production,2,mix,Repro,F
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c58,3.8,30,1.615549442,Life.Span,1,single,Longevity,F
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c58,5.7,30,2.100214275,Life.Span,2,mix,Longevity,F
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c58,5.6,30,1.884807682,Life.Span,2,mix,Longevity,F
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c59,3.6,30,1.507846146,Life.Span,1,single,Longevity,M
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c59,5.4,30,2.100214275,Life.Span,2,mix,Longevity,M
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c59,5.3,30,0.199251098,Life.Span,2,mix,Longevity,M
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c60,0.9,13,0.727461339,Fecundity,1,single,Repro,F
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c60,3.5,18,3.834488232,Fecundity,2,mix,Repro,F
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c60,3.5,16,0.580947502,Fecundity,2,mix,Repro,F
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c353,7.6,16,0.697137002,Development.Time,1,single,DevTime,any
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c353,6.6,25,0.685857128,Development.Time,2,mix,DevTime,any
+a29,Chinajariyawong,Journal of the Australian Entomological Society,1990,Campylomma_livida,Terrestrial,Secondary.Consumer,N,c353,6.2,24,2.925457229,Development.Time,2,mix,DevTime,any
+a30,Choi,PLOS One,2014,Daphnia_magna,Marine,Primary.Consumer,N,c61,3.18,200,0.05,Body.Length,1,single,Size,any
+a30,Choi,PLOS One,2014,Daphnia_magna,Marine,Primary.Consumer,N,c61,2.78,200,0.07,Body.Length,1,single,Size,any
+a30,Choi,PLOS One,2014,Daphnia_magna,Marine,Primary.Consumer,N,c61,2.99,200,0.07,Body.Length,2,mix,Size,any
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_albidipennis,Terrestrial,Secondary.Consumer,N,c62,50.9,15,14.21829807,Female.Longevity,1,single,Longevity,F
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_albidipennis,Terrestrial,Secondary.Consumer,N,c62,40.5,15,12.72163512,Female.Longevity,1,single,Longevity,F
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_albidipennis,Terrestrial,Secondary.Consumer,N,c62,50.5,15,7.109149035,Female.Longevity,2,mix,Longevity,F
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_albidipennis,Terrestrial,Secondary.Consumer,N,c63,44.5,15,12.34746938,Male.Longevity,1,single,Longevity,M
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_albidipennis,Terrestrial,Secondary.Consumer,N,c63,40.5,15,9.728309206,Male.Longevity,1,single,Longevity,M
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_albidipennis,Terrestrial,Secondary.Consumer,N,c63,43.5,15,10.47664068,Male.Longevity,2,mix,Longevity,M
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c64,57,15,7.857480512,Female.Longevity,1,single,Longevity,F
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c64,57.4,15,15.34079529,Female.Longevity,1,single,Longevity,F
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c64,58.7,15,6.360817558,Female.Longevity,2,mix,Longevity,F
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c65,41.9,15,8.979977728,Male.Longevity,1,single,Longevity,M
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c65,45.6,15,4.864154603,Male.Longevity,1,single,Longevity,M
+a31,Cocuzza,Entomologia Experimentalis et Applicata,1997,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c65,43.3,15,10.85080642,Male.Longevity,2,mix,Longevity,M
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_marcuzzii,Marine,Primary.Consumer,N,c66,82.27745466,15,19.59246228,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_marcuzzii,Marine,Primary.Consumer,N,c66,115.212761,21,21.29621756,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_marcuzzii,Marine,Primary.Consumer,N,c66,117.3972838,21,17.03697405,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_marcuzzii,Marine,Primary.Consumer,N,c66,110.5321753,21,21.29621756,Growth.Rate,4,mix,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Cymadusa_compta,Marine,Secondary.Consumer,N,c67,119.4707029,14,25.03027332,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Cymadusa_compta,Marine,Secondary.Consumer,N,c67,101.0599207,14,17.87876666,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Cymadusa_compta,Marine,Secondary.Consumer,N,c67,148.1028879,22,29.5405706,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Cymadusa_compta,Marine,Secondary.Consumer,N,c67,100.932571,20,19.45293743,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Cymadusa_compta,Marine,Secondary.Consumer,N,c67,78.55564252,9,23.8429394,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Cymadusa_compta,Marine,Secondary.Consumer,N,c67,105.2035605,7,10.93160712,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Cymadusa_compta,Marine,Secondary.Consumer,N,c67,158.3258825,21,19.95829269,Growth.Rate,5,mix,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Cymadusa_compta,Marine,Secondary.Consumer,N,c67,145.3051749,23,27.90991196,Growth.Rate,6,mix,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_valida,Marine,Secondary.Consumer,N,c68,157.985861,16,18.44299036,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_valida,Marine,Secondary.Consumer,N,c68,160.4734304,23,26.0581656,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_valida,Marine,Secondary.Consumer,N,c68,174.8601372,24,41.8688529,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_valida,Marine,Secondary.Consumer,N,c68,142.4209077,24,22.83755613,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_valida,Marine,Secondary.Consumer,N,c68,114.7436378,24,19.03129677,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_valida,Marine,Secondary.Consumer,N,c68,77.6475977,18,24.84548605,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_valida,Marine,Secondary.Consumer,N,c68,198.1801997,21,32.72343759,Growth.Rate,5,mix,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Ampithoe_valida,Marine,Secondary.Consumer,N,c68,202.3544765,22,32.73306072,Growth.Rate,6,mix,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Gammarus_mucronatus,Marine,Secondary.Consumer,N,c69,45.08774137,10,12.83099566,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Gammarus_mucronatus,Marine,Secondary.Consumer,N,c69,46.1167369,14,16.60698911,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Gammarus_mucronatus,Marine,Secondary.Consumer,N,c69,72.4756274,21,8.829507996,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Gammarus_mucronatus,Marine,Secondary.Consumer,N,c69,48.174099,19,12.5632759,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Gammarus_mucronatus,Marine,Secondary.Consumer,N,c69,58.41436568,22,13.56988891,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Gammarus_mucronatus,Marine,Secondary.Consumer,N,c69,74.94622303,20,7.172073487,Growth.Rate,1,single,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Gammarus_mucronatus,Marine,Secondary.Consumer,N,c69,74.90345305,22,12.05956142,Growth.Rate,5,mix,Size,any
+a32,Cruz-Rivera,Oecologia,2000,Gammarus_mucronatus,Marine,Secondary.Consumer,N,c69,83.87005472,23,9.257515979,Growth.Rate,6,mix,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,86.52757741,18,27.75188618,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,46.4565531,13,23.30965787,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,25.47648113,14,10.78287161,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,15.33839593,8,11.87121353,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,69.85557335,13,23.31295299,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,69.43798849,17,17.943783,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,68.64467238,16,21.72117552,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,98.62422119,17,28.41479462,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,83.07275235,19,23.79435562,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,78.91592815,20,19.55793045,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,72.51803351,17,16.44846775,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,66.7327235,15,15.38257358,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,56.22271192,15,23.7750096,Growth.Rate,1,single,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,106.8941135,17,17.93617325,Growth.Rate,4,mix,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,84.6146773,19,17.43816327,Growth.Rate,3,mix,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,97.83375874,18,18.49210618,Growth.Rate,5,mix,Size,any
+a33,Cruz-Rivera,Marine Ecology Progress Series,2001,Ampithoe_longimana,Marine,Primary.Consumer,N,c70,91.80779048,19,17.43816327,Growth.Rate,11,mix,Size,any
+a34,Dayras,Journal of the World Aquaculture Society,2020,Paracyclopina_nana,Marine,Primary.Consumer,N,c71,31.39342,20,1.803155,Egg.Production,1,single,Repro,F
+a34,Dayras,Journal of the World Aquaculture Society,2020,Paracyclopina_nana,Marine,Primary.Consumer,N,c71,17.90983,20,2.062877,Egg.Production,1,single,Repro,F
+a34,Dayras,Journal of the World Aquaculture Society,2020,Paracyclopina_nana,Marine,Primary.Consumer,N,c71,15.90161,20,1.735594,Egg.Production,1,single,Repro,F
+a34,Dayras,Journal of the World Aquaculture Society,2020,Paracyclopina_nana,Marine,Primary.Consumer,N,c71,27.18578,20,2.240647,Egg.Production,2,mix,Repro,F
+a34,Dayras,Journal of the World Aquaculture Society,2020,Paracyclopina_nana,Marine,Primary.Consumer,N,c71,19.58333,20,2.186646,Egg.Production,2,mix,Repro,F
+a34,Dayras,Journal of the World Aquaculture Society,2020,Paracyclopina_nana,Marine,Primary.Consumer,N,c71,20.63522,20,2.186647,Egg.Production,2,mix,Repro,F
+a34,Dayras,Journal of the World Aquaculture Society,2020,Paracyclopina_nana,Marine,Primary.Consumer,N,c71,28.40505,20,1.949674,Egg.Production,3,mix,Repro,F
+a35,Deng,Aquaculture International,2013,Pinctada_maxima,Marine,Primary.Consumer,N,c72,226.52,90,4.72,Shell.Length,1,single,Size,any
+a35,Deng,Aquaculture International,2013,Pinctada_maxima,Marine,Primary.Consumer,N,c72,176.48,90,6.64,Shell.Length,1,single,Size,any
+a35,Deng,Aquaculture International,2013,Pinctada_maxima,Marine,Primary.Consumer,N,c72,186.75,90,5.53,Shell.Length,1,single,Size,any
+a35,Deng,Aquaculture International,2013,Pinctada_maxima,Marine,Primary.Consumer,N,c72,210.78,90,5.86,Shell.Length,2,mix,Size,any
+a35,Deng,Aquaculture International,2013,Pinctada_maxima,Marine,Primary.Consumer,N,c72,212.15,90,5.32,Shell.Length,2,mix,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c73,0.479069767,11,0.338290168,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c73,0.674418605,11,0.529497655,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c73,0.28372093,11,0.235332291,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c73,1.153488372,11,0.455956314,Prop.Mass.Change,3,mix,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c74,1.246511628,4,0.59614772,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c74,0.344186047,4,0.515587217,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c74,0.534883721,4,0.257793609,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c74,1.241860465,4,0.265849659,Prop.Mass.Change,3,mix,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c75,0.339534884,11,0.455956314,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c75,0.534883721,11,0.573622459,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c75,0.562790698,11,0.544205923,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Panopeus_herbstii,Marine,Secondary.Consumer,N,c75,0.213953488,11,0.279457096,Prop.Mass.Change,3,mix,Size,any
+a36,Douglass,Ecology Letters,2008,Palaemonetes_vulgaris,Marine,Secondary.Consumer,N,c76,0.518518519,13,1.299038106,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Palaemonetes_vulgaris,Marine,Secondary.Consumer,N,c76,0.018518519,13,0.12830006,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Palaemonetes_vulgaris,Marine,Secondary.Consumer,N,c76,0.319444444,13,0.433012702,Prop.Mass.Change,1,single,Size,any
+a36,Douglass,Ecology Letters,2008,Palaemonetes_vulgaris,Marine,Secondary.Consumer,N,c76,0.305555556,13,0.465087717,Prop.Mass.Change,3,mix,Size,any
+a37,Duarte,Insects,2021,Pronematus_ubiquitus,Terrestrial,Secondary.Consumer,N,c77,2.057424791,12,1.117172846,Egg.Production.Rate,1,single,Repro,F
+a37,Duarte,Insects,2021,Pronematus_ubiquitus,Terrestrial,Secondary.Consumer,N,c77,2.677448435,12,1.326642755,Egg.Production.Rate,2,mix,Repro,F
+a37,Duarte,Insects,2021,Pronematus_ubiquitus,Terrestrial,Secondary.Consumer,N,c77,4.518572099,12,1.536112663,Egg.Production.Rate,2,mix,Repro,F
+a37,Duarte,Insects,2021,Pronematus_ubiquitus,Terrestrial,Secondary.Consumer,N,c77,8.275366935,12,3.63081175,Egg.Production.Rate,2,mix,Repro,F
+a37,Duarte,Insects,2021,Pronematus_ubiquitus,Terrestrial,Secondary.Consumer,N,c78,1.562887164,10,1.061049775,Egg.Production.Rate,1,single,Repro,F
+a37,Duarte,Insects,2021,Pronematus_ubiquitus,Terrestrial,Secondary.Consumer,N,c78,1.252784351,10,0.985260505,Egg.Production.Rate,2,mix,Repro,F
+a37,Duarte,Insects,2021,Pronematus_ubiquitus,Terrestrial,Secondary.Consumer,N,c78,4.151126259,10,2.576932085,Egg.Production.Rate,2,mix,Repro,F
+a37,Duarte,Insects,2021,Pronematus_ubiquitus,Terrestrial,Secondary.Consumer,N,c78,9.929428108,10,3.107456973,Egg.Production.Rate,2,mix,Repro,F
+a38,Dunbar,Annals of the Entomological Society of America,1972,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c333,18,31,0.766811581,Days.to.maturity,1,single,DevTime,any
+a38,Dunbar,Annals of the Entomological Society of America,1972,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c333,18.91,32,1.22490816,Days.to.maturity,2,mix,DevTime,any
+a38,Dunbar,Annals of the Entomological Society of America,1972,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c79,124.9,10,57.6,Fecundity,1,single,Repro,F
+a38,Dunbar,Annals of the Entomological Society of America,1972,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c79,263.8,12,108.1219682,Fecundity,2,mix,Repro,F
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.034959269,71,0.00946674,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.030857813,62,0.01155608,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.02829252,70,0.012288425,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.064443841,73,0.016983472,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.062219205,73,0.016246083,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.054706492,69,0.012200092,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.04343841,70,0.017348796,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.041895581,72,0.013932932,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.04103604,71,0.011649022,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.021579857,74,0.009666394,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.017478894,71,0.00727919,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.017983214,64,0.006907645,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.020702049,59,0.0119292,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.017453962,62,0.006796132,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.017958776,57,0.006511648,Growth.Rate,1,single,Size,any
+a39,Enright,Journal of Experimental Marine Biology and Ecology,1986,Ostrea_edulis,Marine,Primary.Consumer,N,c80,0.065502592,65,0.011835828,Growth.Rate,5,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,12.5,10,5.1,%.Weight.Gain,1,single,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,22.9,10,9.9,%.Weight.Gain,1,single,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,135.4,10,64.7,%.Weight.Gain,1,single,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,112,10,40.9,%.Weight.Gain,1,single,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,35.9,10,12.7,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,48.2,10,21.2,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,81.7,10,23.2,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,135.7,10,42.7,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,154.7,10,47.3,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,193.2,10,36,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,48.7,10,13.6,%.Weight.Gain,3,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,209.4,10,53.3,%.Weight.Gain,3,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,137.8,10,63.1,%.Weight.Gain,3,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,140,10,45.2,%.Weight.Gain,3,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Crassostrea_virginica,Marine,Primary.Consumer,N,c81,150.8,10,40.6,%.Weight.Gain,4,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,98.9,15,33.9,%.Weight.Gain,1,single,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,258.5,15,109.8,%.Weight.Gain,1,single,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,297.9,15,68.7,%.Weight.Gain,1,single,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,353.6,15,140.4,%.Weight.Gain,1,single,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,197.2,15,107.9,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,349.2,15,146.6,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,143.8,15,49.2,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,427.9,15,144.9,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,340.5,15,198.2,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,504.4,15,201.5,%.Weight.Gain,2,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,420.2,15,127.3,%.Weight.Gain,3,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,597.9,15,255.4,%.Weight.Gain,3,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,474.9,15,230,%.Weight.Gain,3,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,293.4,15,95.4,%.Weight.Gain,3,mix,Size,any
+a40,Epifanio,Aquaculture,1979,Mercenaria_mercenaria,Marine,Primary.Consumer,N,c82,561.1,15,193.5,%.Weight.Gain,4,mix,Size,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,56.94189602,11,16.24656413,Life.Span,1,single,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,10.91743119,11,17.60044447,Life.Span,1,single,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,17.98165138,11,11.50798292,Life.Span,1,single,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,10.06116208,11,12.18492309,Life.Span,1,single,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,60.58103976,11,14.89268378,Life.Span,3,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,34.03669725,11,15.56962395,Life.Span,3,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,46.45259939,11,14.21574361,Life.Span,4,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,61.86544343,11,14.89268378,Life.Span,2,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,32.11009174,11,12.18492309,Life.Span,2,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,38.74617737,11,13.53880344,Life.Span,3,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,55.87155963,11,18.27738464,Life.Span,2,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,9.847094801,11,16.24656413,Life.Span,2,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,31.89602446,11,16.24656413,Life.Span,3,mix,Longevity,any
+a41,Eubanks,Ecology,1999,Geocoris_punctipes,Terrestrial,Secondary.Consumer,N,c83,29.5412844,11,14.21574361,Life.Span,2,mix,Longevity,any
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c315,4.2,16,0.929516003,Female.Development.Time,1,single,DevTime,F
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c315,4.9,9,1.103086579,Female.Development.Time,1,single,DevTime,F
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c315,4,53,0.865332306,Female.Development.Time,2,mix,DevTime,F
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c316,5.1,4,0.692820323,Male.Development.Time,1,single,DevTime,M
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c316,6.6,8,2.116601049,Male.Development.Time,1,single,DevTime,M
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c316,5.4,22,2.382939361,Male.Development.Time,2,mix,DevTime,M
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c84,0.88,17,0.84,Daily.Egg.Production,1,single,Repro,F
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c84,1,10,0.81,Daily.Egg.Production,1,single,Repro,F
+a42,Farfan,Experimental and Applied Acarology,2014,Proprioseiopsis_mexicanus,Terrestrial,Secondary.Consumer,N,c84,1.4,13,0.831384388,Daily.Egg.Production,2,mix,Repro,F
+a43,Fawki,Journal of Applied Entomology,2005,Amara_similata,Terrestrial,Secondary.Consumer,N,c85,19.81,33,2.432447327,Weight,1,single,Size,any
+a43,Fawki,Journal of Applied Entomology,2005,Amara_similata,Terrestrial,Secondary.Consumer,N,c85,19.04,21,2.862167011,Weight,2,mix,Size,any
+a43,Fawki,Journal of Applied Entomology,2005,Amara_similata,Terrestrial,Secondary.Consumer,N,c85,21.59,8,3.201359086,Weight,2,mix,Size,any
+a43,Fawki,Journal of Applied Entomology,2005,Amara_similata,Terrestrial,Secondary.Consumer,N,c85,23.32,11,2.118726032,Weight,2,mix,Size,any
+a44,Fisker,Physiological Entomoloty,2004,Pardosa_prativaga,Terrestrial,Secondary.Consumer,Y,c86,0.057,28,0.194,Growth.Rate,1,single,Size,any
+a44,Fisker,Physiological Entomoloty,2004,Pardosa_prativaga,Terrestrial,Secondary.Consumer,N,c86,2.81,34,2.282,Growth.Rate,1,single,Size,any
+a44,Fisker,Physiological Entomoloty,2004,Pardosa_prativaga,Terrestrial,Secondary.Consumer,Y,c86,1.141,30,1.424,Growth.Rate,2,mix,Size,any
+a44,Fisker,Physiological Entomoloty,2004,Pardosa_prativaga,Terrestrial,Secondary.Consumer,N,c87,0.64,34,0.822,Growth.Rate,1,single,Size,any
+a44,Fisker,Physiological Entomoloty,2004,Pardosa_prativaga,Terrestrial,Secondary.Consumer,N,c87,0.09,19,0.388,Growth.Rate,2,mix,Size,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c89,0.88,20,1.52561463,GI,1,single,Repro,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c89,29.75,20,6.14604751,GI,1,single,Repro,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c89,31.77,20,4.751199848,GI,1,single,Repro,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c89,33.24,20,3.312763197,GI,3,mix,Repro,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c90,4.4,20,4.838377827,GI,1,single,Repro,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c90,24.02,20,7.148594267,GI,1,single,Repro,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c90,23.97,20,6.799882352,GI,1,single,Repro,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c90,27.13,20,5.535801658,GI,3,mix,Repro,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c88,26.04528745,20,3.952619563,Live.Weight,1,single,Size,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c88,48.41302504,20,5.709339368,Live.Weight,1,single,Size,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c88,53.85413177,20,6.588457786,Live.Weight,1,single,Size,any
+a45,Foster,Marine Biology,1999,Turbo_sarmaticus,Marine,Primary.Consumer,N,c88,55.96998238,20,5.270917932,Live.Weight,3,mix,Size,any
+a46,Foster,PeerJ,2015,Strongylocentrotus_purpuratus,Marine,Primary.Consumer,N,c91,11.24595697,7,2.983496419,Weight.Gain,1,single,Size,any
+a46,Foster,PeerJ,2015,Strongylocentrotus_purpuratus,Marine,Primary.Consumer,N,c91,9.732984109,7,2.590806459,Weight.Gain,1,single,Size,any
+a46,Foster,PeerJ,2015,Strongylocentrotus_purpuratus,Marine,Primary.Consumer,N,c91,5.905697745,7,1.491676446,Weight.Gain,1,single,Size,any
+a46,Foster,PeerJ,2015,Strongylocentrotus_purpuratus,Marine,Primary.Consumer,N,c91,5.001640651,7,1.256148586,Weight.Gain,1,single,Size,any
+a46,Foster,PeerJ,2015,Strongylocentrotus_purpuratus,Marine,Primary.Consumer,N,c91,9.373798809,7,2.512297172,Weight.Gain,4,mix,Size,any
+a47,Frias,Journal of Shellfish Research,2010,Crassostrea_gigas,Marine,Primary.Consumer,N,c92,102.82,128,8.19,Live.Weight,1,single,Size,any
+a47,Frias,Journal of Shellfish Research,2010,Crassostrea_gigas,Marine,Primary.Consumer,N,c92,100.65,108,10.32,Live.Weight,1,single,Size,any
+a47,Frias,Journal of Shellfish Research,2010,Crassostrea_gigas,Marine,Primary.Consumer,N,c92,96.54,107,4.9,Live.Weight,2,mix,Size,any
+a48,Galley,Aquaculture International,2010,Mytilus_edulis,Marine,Primary.Consumer,N,c93,5.6,20,0.6,Growth.Rate,1,single,Size,any
+a48,Galley,Aquaculture International,2010,Mytilus_edulis,Marine,Primary.Consumer,N,c93,5.6,20,1.3,Growth.Rate,1,single,Size,any
+a48,Galley,Aquaculture International,2010,Mytilus_edulis,Marine,Primary.Consumer,N,c93,8,20,0.07,Growth.Rate,2,mix,Size,any
+a48,Galley,Aquaculture International,2010,Mytilus_edulis,Marine,Primary.Consumer,N,c93,8,20,0.03,Growth.Rate,2,mix,Size,any
+a49,Gao,Freshwater Biology,2022,Moina_belli,Marine,Primary.Consumer,Y,c94,942.4821002,30,123.383251,Size,1,single,Size,any
+a49,Gao,Freshwater Biology,2022,Moina_belli,Marine,Primary.Consumer,Y,c94,836.5155131,30,269.9008615,Size,1,single,Size,any
+a49,Gao,Freshwater Biology,2022,Moina_belli,Marine,Primary.Consumer,Y,c94,925.2983294,30,154.2290637,Size,2,mix,Size,any
+a50,Gosselin,Journal of the Marine Biological Association of the United Kingdom,2013,Spirobranchus_cariniferus,Marine,Primary.Consumer,N,c95,282.6773742,12,43.64258927,Body.Length,1,single,Size,any
+a50,Gosselin,Journal of the Marine Biological Association of the United Kingdom,2013,Spirobranchus_cariniferus,Marine,Primary.Consumer,N,c95,310.8756851,12,13.09852768,Body.Length,1,single,Size,any
+a50,Gosselin,Journal of the Marine Biological Association of the United Kingdom,2013,Spirobranchus_cariniferus,Marine,Primary.Consumer,N,c95,314.075356,12,39.27528575,Body.Length,1,single,Size,any
+a50,Gosselin,Journal of the Marine Biological Association of the United Kingdom,2013,Spirobranchus_cariniferus,Marine,Primary.Consumer,N,c95,306.7478342,12,30.55082735,Body.Length,2,mix,Size,any
+a50,Gosselin,Journal of the Marine Biological Association of the United Kingdom,2013,Spirobranchus_cariniferus,Marine,Primary.Consumer,N,c95,340.7375801,12,54.11261592,Body.Length,3,mix,Size,any
+a51,Gutierrez,Aquaculture,1999,Chorus_giganteus,Marine,Secondary.Consumer,N,c96,0.550112731,6,0.335185062,Live.Weight,1,single,Size,any
+a51,Gutierrez,Aquaculture,1999,Chorus_giganteus,Marine,Secondary.Consumer,N,c96,0.24906115,6,0.156647524,Live.Weight,1,single,Size,any
+a51,Gutierrez,Aquaculture,1999,Chorus_giganteus,Marine,Secondary.Consumer,N,c96,0.50793476,6,0.335174799,Live.Weight,2,mix,Size,any
+a52,Hagele,Oecologia,1999,Miramella_alpina,Terrestrial,Primary.Consumer,Y,c97,0.200477555,12,0.03547207,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Miramella_alpina,Terrestrial,Primary.Consumer,Y,c97,0.18037425,12,0.026604052,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Miramella_alpina,Terrestrial,Primary.Consumer,Y,c97,0.229783732,9,0.049145635,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Miramella_alpina,Terrestrial,Primary.Consumer,Y,c97,0.14015106,9,0.04915736,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Miramella_alpina,Terrestrial,Primary.Consumer,Y,c97,0.230898855,13,0.069453206,Live.Weight,6,mix,Size,any
+a52,Hagele,Oecologia,1999,Callimorpha_dominula,Terrestrial,Primary.Consumer,Y,c98,0.401902342,12,0.035478944,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Callimorpha_dominula,Terrestrial,Primary.Consumer,Y,c98,0.36308031,11,0.02959363,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Callimorpha_dominula,Terrestrial,Primary.Consumer,Y,c98,0.352273151,11,0.02959363,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Callimorpha_dominula,Terrestrial,Primary.Consumer,Y,c98,0.377620435,12,0.031038061,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Callimorpha_dominula,Terrestrial,Primary.Consumer,Y,c98,0.373551687,12,0.079812157,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Callimorpha_dominula,Terrestrial,Primary.Consumer,Y,c98,0.429647762,12,0.031038061,Live.Weight,6,mix,Size,any
+a52,Hagele,Oecologia,1999,Cylindrotoma_distinctissima,Terrestrial,Primary.Consumer,Y,c99,0.39210667,8,0.095491147,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Cylindrotoma_distinctissima,Terrestrial,Primary.Consumer,Y,c99,0.36263882,12,0.088666426,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Cylindrotoma_distinctissima,Terrestrial,Primary.Consumer,Y,c99,0.350542431,11,0.050751601,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Cylindrotoma_distinctissima,Terrestrial,Primary.Consumer,Y,c99,0.299690336,9,0.041588826,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Cylindrotoma_distinctissima,Terrestrial,Primary.Consumer,Y,c99,0.319687931,10,0.076209743,Live.Weight,1,single,Size,any
+a52,Hagele,Oecologia,1999,Cylindrotoma_distinctissima,Terrestrial,Primary.Consumer,Y,c99,0.391768817,9,0.090746186,Live.Weight,6,mix,Size,any
+a53,Hauge,Entomologica Experimentalis et Applicata,1998,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c100,28.164,15,17.09937426,Live.Weight,1,single,Size,any
+a53,Hauge,Entomologica Experimentalis et Applicata,1998,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c100,22.032,9,6.929646456,Live.Weight,1,single,Size,any
+a53,Hauge,Entomologica Experimentalis et Applicata,1998,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c100,31.732,18,19.06524041,Live.Weight,1,single,Size,any
+a53,Hauge,Entomologica Experimentalis et Applicata,1998,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c100,29.537,13,20.26499445,Live.Weight,3,mix,Size,any
+a54,Heath,Aquaculture International,1997,Solea_solea,Marine,Secondary.Consumer,N,c101,1.03,23,0.093808315,Length,1,single,Size,any
+a54,Heath,Aquaculture International,1997,Solea_solea,Marine,Secondary.Consumer,N,c101,1.1,24,0.09591663,Length,1,single,Size,any
+a54,Heath,Aquaculture International,1997,Solea_solea,Marine,Secondary.Consumer,N,c101,1.06,25,0.09797959,Length,2,mix,Size,any
+a55,Holm,Entomologia Experimentalis et Applicata,2021,Adalia_bipunctata,Terrestrial,Secondary.Consumer,N,c302,17.10638298,14,0.920566283,Development.Time,1,single,DevTime,any
+a55,Holm,Entomologia Experimentalis et Applicata,2021,Adalia_bipunctata,Terrestrial,Secondary.Consumer,N,c302,16.25531915,15,1.114536243,Development.Time,2,mix,DevTime,any
+a56,Hvam,The Journal of Arachnology,2005,Oligolophus_tridens,Terrestrial,Secondary.Consumer,N,c102,18.08127784,17,2.507149535,Live.Weight,1,single,Size,any
+a56,Hvam,The Journal of Arachnology,2005,Oligolophus_tridens,Terrestrial,Secondary.Consumer,N,c102,18.46212809,18,2.584310588,Live.Weight,1,single,Size,any
+a56,Hvam,The Journal of Arachnology,2005,Oligolophus_tridens,Terrestrial,Secondary.Consumer,N,c102,10.3785129,3,2.659962813,Live.Weight,1,single,Size,any
+a56,Hvam,The Journal of Arachnology,2005,Oligolophus_tridens,Terrestrial,Secondary.Consumer,N,c102,17.30857807,12,2.598665721,Live.Weight,5,mix,Size,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,6.601226994,48,2.018843073,Development.Time,1,single,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,9.104294479,20,2.353270595,Development.Time,1,single,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,7.337423313,25,3.606610664,Development.Time,2,mix,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,5.644171779,15,0.550918879,Development.Time,2,mix,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,4.63803681,20,0.534834226,Development.Time,2,mix,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,6.72392638,20,2.03237006,Development.Time,2,mix,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,5.693251534,15,2.662774582,Development.Time,2,mix,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,5.055214724,20,0.534834226,Development.Time,2,mix,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,4.63803681,20,0.855734762,Development.Time,3,mix,DevTime,any
+a57,Janssen,Journal of Animal Ecology,2003,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c325,4.417177914,20,0.641801071,Development.Time,3,mix,DevTime,any
+a58,Jimenez,Estuaries and Coasts,2012,Orchelimum_fidicinium,Terrestrial,Secondary.Consumer,N,c103,0.202067669,7,0.025323672,Body.Mass,1,single,Size,any
+a58,Jimenez,Estuaries and Coasts,2012,Orchelimum_fidicinium,Terrestrial,Secondary.Consumer,N,c103,0.196898496,7,0.020719369,Body.Mass,1,single,Size,any
+a58,Jimenez,Estuaries and Coasts,2012,Orchelimum_fidicinium,Terrestrial,Secondary.Consumer,N,c103,0.239191729,7,0.020719369,Body.Mass,2,mix,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c104,201,40,21.02907489,Size,1,single,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c104,231,40,31.86223469,Size,1,single,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c104,226,40,14.65662796,Size,2,mix,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c104,211,40,25.1711654,Size,2,mix,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c104,214,40,31.86223469,Size,3,mix,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c105,279,40,40.1464157,Size,1,single,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c105,303,40,41.73952744,Size,1,single,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c105,318,40,62.44997998,Size,2,mix,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c105,234,40,26.76427714,Size,2,mix,Size,any
+a59,Jonsson,Marine Biology,1999,Ostrea_edulis,Marine,Primary.Consumer,N,c105,266,40,43.96988387,Size,3,mix,Size,any
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c334,7.6,47,0.881702898,Developmental.Stage,1,single,DevTime,any
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c334,11.24,41,2.76535712,Developmental.Stage,1,single,DevTime,any
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c334,7.2,46,0.872066511,Developmental.Stage,1,single,DevTime,any
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c334,7.62,48,0.959791644,Developmental.Stage,1,single,DevTime,any
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c334,8.47,44,1.180338934,Developmental.Stage,2,mix,DevTime,any
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c334,7.76,43,1.101725919,Developmental.Stage,2,mix,DevTime,any
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c334,8.44,50,1.05,Developmental.Stage,2,mix,DevTime,any
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c106,45.81,50,39.13,Male.Longevity,1,single,Longevity,M
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c106,27.67,50,23.94,Male.Longevity,1,single,Longevity,M
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c106,35.61,50,52.57,Male.Longevity,1,single,Longevity,M
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c106,35.29,50,38.22,Male.Longevity,1,single,Longevity,M
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c106,30.31,50,25.34,Male.Longevity,2,mix,Longevity,M
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c106,40.21,50,57.61,Male.Longevity,2,mix,Longevity,M
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c106,38.05,50,43.4,Male.Longevity,2,mix,Longevity,M
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c107,42.47,50,18.62,Female.Longevity,1,single,Longevity,F
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c107,40.16,50,35.35,Female.Longevity,1,single,Longevity,F
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c107,31.42,50,32.83,Female.Longevity,1,single,Longevity,F
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c107,35.6,50,21.21,Female.Longevity,1,single,Longevity,F
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c107,32.33,50,22.54,Female.Longevity,2,mix,Longevity,F
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c107,37.01,50,30.17,Female.Longevity,2,mix,Longevity,F
+a60,Khanamani,Systematic & Applied Acarology,2017,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c107,36.11,50,17.22,Female.Longevity,2,mix,Longevity,F
+a61,Krebs,Oecologia,1984,Merops_apiaster,Terrestrial,Secondary.Consumer,N,c108,0.5706,15,1.26,Weight.Gain,1,single,Size,any
+a61,Krebs,Oecologia,1984,Merops_apiaster,Terrestrial,Secondary.Consumer,Y,c108,0.832,15,0.938,Weight.Gain,1,single,Size,any
+a61,Krebs,Oecologia,1984,Merops_apiaster,Terrestrial,Secondary.Consumer,N,c108,1.51,16,0.877,Weight.Gain,2,mix,Size,any
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c109,26.3,8,2.901,Weight,1,single,Size,F
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c109,16.9,3,1.537,Weight,1,single,Size,F
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c109,27.4,5,2.714,Weight,1,single,Size,F
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c109,38.2,9,2.392,Weight,1,single,Size,F
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c109,34,12,4.02,Weight,4,mix,Size,F
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c110,25.7,6,2.29,Weight,1,single,Size,M
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c110,26.2,5,0.907,Weight,1,single,Size,M
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c110,34.8,4,1.014,Weight,1,single,Size,M
+a62,Kugelburg,Entomologica Experimentalis et Applicata,1973,Lygaeus_equestris,Terrestrial,Primary.Consumer,N,c110,31.5,6,4.361,Weight,4,mix,Size,M
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c111,268.524,10,19.023,Juvenile.Size,1,single,Size,any
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c111,201.46,10,17.352,Juvenile.Size,1,single,Size,any
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c111,306.36,10,10.614,Juvenile.Size,2,mix,Size,any
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c112,1207,10,18.99,Female.Adult.Size,1,single,Size,F
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c112,1286,10,82.5,Female.Adult.Size,1,single,Size,F
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c112,1327,10,38.73,Female.Adult.Size,2,mix,Size,F
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c113,1042,10,48.9,Male.Adult.Size,1,single,Size,M
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c113,1136,10,74.91,Male.Adult.Size,1,single,Size,M
+a63,Kumar,Archiv Fur Hydrobiologie,2003,Phyllodiaptomus_blanci,Marine,Primary.Consumer,N,c113,1158,10,28.2,Male.Adult.Size,2,mix,Size,M
+a64,Labbe,Scientific Reports,2018,Dicyphus_hesperus,Terrestrial,Secondary.Consumer,N,c313,18.3,19,3.52139177,Development.Time,1,single,DevTime,any
+a64,Labbe,Scientific Reports,2018,Dicyphus_hesperus,Terrestrial,Secondary.Consumer,N,c313,17.3,19,3.097127702,Development.Time,2,mix,DevTime,any
+a64,Labbe,Scientific Reports,2018,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c314,12.7,10,3.81,Development.Time,1,single,DevTime,any
+a64,Labbe,Scientific Reports,2018,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c314,12.3,6,1.095673309,Development.Time,2,mix,DevTime,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c114,22.2,11,3.16,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c114,15.7,11,4.36,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c114,19.7,11,4.48,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c114,9.8,11,2.5,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c114,6.1,11,2.47,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c114,24.3,5,3.96,GI,2,mix,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c114,18.4,5,2.12,GI,2,mix,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c114,18.6,5,6.14,GI,2,mix,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c115,22.5,11,3.99,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c115,7.1,11,1.84,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c115,13.8,11,5.23,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c115,10.9,11,2.87,GI,1,single,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c115,20.5,6,4.01,GI,2,mix,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c115,22,6,3.25,GI,2,mix,Repro,any
+a65,Larson,Marine Biology,1980,Strongylocentrotus_droebachiensis,Marine,Primary.Consumer,N,c115,15.5,6,3.98,GI,2,mix,Repro,any
+a66,Lee,Aquaculture,2006,Paracyclopina_nana,Marine,Primary.Consumer,N,c116,208.2,12,38.27385008,Fecundity,1,single,Repro,F
+a66,Lee,Aquaculture,2006,Paracyclopina_nana,Marine,Primary.Consumer,N,c116,203.8,12,37.47786013,Fecundity,1,single,Repro,F
+a66,Lee,Aquaculture,2006,Paracyclopina_nana,Marine,Primary.Consumer,N,c116,259.6,12,95.94995518,Fecundity,2,mix,Repro,F
+a66,Lee,Aquaculture,2006,Paracyclopina_nana,Marine,Primary.Consumer,N,c116,267.4,12,87.35989698,Fecundity,2,mix,Repro,F
+a67,Leman,Experimental and Applied Acarology,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c117,1.194556452,10,0.877016129,Egg.Production.Rate,1,single,Repro,F
+a67,Leman,Experimental and Applied Acarology,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c117,1.799395161,10,0.393145161,Egg.Production.Rate,1,single,Repro,F
+a67,Leman,Experimental and Applied Acarology,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c117,1.552419355,10,0.967741935,Egg.Production.Rate,2,mix,Repro,F
+a68,Lin,Aquaculture,2007,Hippocampus_kuda,Marine,Secondary.Consumer,N,c119,597.62,5,46.496,Egg.Production,1,single,Repro,F
+a68,Lin,Aquaculture,2007,Hippocampus_kuda,Marine,Secondary.Consumer,N,c119,513.047,5,9.897,Egg.Production,1,single,Repro,F
+a68,Lin,Aquaculture,2007,Hippocampus_kuda,Marine,Secondary.Consumer,N,c119,544.101,5,46.496,Egg.Production,2,mix,Repro,F
+a68,Lin,Aquaculture,2007,Hippocampus_kuda,Marine,Secondary.Consumer,N,c118,27.54,5,3.89,Live.Weight,1,single,Size,any
+a68,Lin,Aquaculture,2007,Hippocampus_kuda,Marine,Secondary.Consumer,N,c118,22.76,5,4.4,Live.Weight,1,single,Size,any
+a68,Lin,Aquaculture,2007,Hippocampus_kuda,Marine,Secondary.Consumer,N,c118,24.93,5,3.95,Live.Weight,2,mix,Size,any
+a69,Luckenbach,Journal of Shellfish Research,1993,Crassostrea_virginica,Marine,Primary.Consumer,N,c120,1.027,21,0.948,Growth.Rate,1,single,Size,any
+a69,Luckenbach,Journal of Shellfish Research,1993,Crassostrea_virginica,Marine,Primary.Consumer,Y,c120,1.098,21,1.049,Growth.Rate,2,mix,Size,any
+a69,Luckenbach,Journal of Shellfish Research,1993,Crassostrea_virginica,Marine,Primary.Consumer,N,c121,0.617,30,0.451,Growth.Rate,1,single,Size,any
+a69,Luckenbach,Journal of Shellfish Research,1993,Crassostrea_virginica,Marine,Primary.Consumer,N,c121,2.458,30,0.754,Growth.Rate,1,single,Size,any
+a69,Luckenbach,Journal of Shellfish Research,1993,Crassostrea_virginica,Marine,Primary.Consumer,N,c121,2.75,29,0.91,Growth.Rate,2,mix,Size,any
+a70,Lurling,Acta Hydrochimica et Hydrobiologica,2006,Daphnia_magna,Marine,Primary.Consumer,Y,c122,0.239,5,0.012,Growth.Rate,1,single,Size,F
+a70,Lurling,Acta Hydrochimica et Hydrobiologica,2006,Daphnia_magna,Marine,Primary.Consumer,Y,c122,0.034,5,0.005,Growth.Rate,1,single,Size,F
+a70,Lurling,Acta Hydrochimica et Hydrobiologica,2006,Daphnia_magna,Marine,Primary.Consumer,Y,c122,0.158,5,0.005,Growth.Rate,2,mix,Size,F
+a70,Lurling,Acta Hydrochimica et Hydrobiologica,2006,Daphnia_magna,Marine,Primary.Consumer,Y,c123,0.124,5,0.004,Growth.Rate,1,single,Size,M
+a70,Lurling,Acta Hydrochimica et Hydrobiologica,2006,Daphnia_magna,Marine,Primary.Consumer,Y,c123,0.03,5,0.005,Growth.Rate,1,single,Size,M
+a70,Lurling,Acta Hydrochimica et Hydrobiologica,2006,Daphnia_magna,Marine,Primary.Consumer,Y,c123,0.103,5,0.005,Growth.Rate,2,mix,Size,M
+a71,Lykouressis,Biological Control,2001,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c336,68.82758621,12,4.574654883,Development.Time,1,single,DevTime,any
+a71,Lykouressis,Biological Control,2001,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c336,63.69863014,18,4.518471918,Development.Time,2,mix,DevTime,any
+a71,Lykouressis,Biological Control,2001,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c337,29.65517241,10,3.310344828,Development.Time,1,single,DevTime,any
+a71,Lykouressis,Biological Control,2001,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c337,23.01369863,16,2.122182655,Development.Time,2,mix,DevTime,any
+a71,Lykouressis,Biological Control,2001,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c338,19.44827586,12,4.117189395,Development.Time,1,single,DevTime,any
+a71,Lykouressis,Biological Control,2001,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c338,14.79452055,16,1.591636992,Development.Time,2,mix,DevTime,any
+a71,Lykouressis,Biological Control,2001,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c339,21.65517241,6,3.392654862,Development.Time,1,single,DevTime,any
+a71,Lykouressis,Biological Control,2001,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c339,14.65753425,18,2.259235959,Development.Time,2,mix,DevTime,any
+a72,Marcussen,Entomologica Experimentalis et Applicata,1999,Erigone_atra,Terrestrial,Secondary.Consumer,N,c124,3.90430622,11,1.452529452,Total.Egg.Sac.Production,1,single,Repro,F
+a72,Marcussen,Entomologica Experimentalis et Applicata,1999,Erigone_atra,Terrestrial,Secondary.Consumer,N,c124,5.138755981,14,1.656138385,Total.Egg.Sac.Production,1,single,Repro,F
+a72,Marcussen,Entomologica Experimentalis et Applicata,1999,Erigone_atra,Terrestrial,Secondary.Consumer,N,c124,5.282296651,14,1.449121087,Total.Egg.Sac.Production,2,mix,Repro,F
+a73,Margaritopoulos,Bulletin of Entomological Research,2003,Macrolophus_costalis,Terrestrial,Secondary.Consumer,N,c340,28.5,36,4.555381433,Development.Time,1,single,DevTime,any
+a73,Margaritopoulos,Bulletin of Entomological Research,2003,Macrolophus_costalis,Terrestrial,Secondary.Consumer,N,c340,22.2,42,2.177062241,Development.Time,2,mix,DevTime,any
+a73,Margaritopoulos,Bulletin of Entomological Research,2003,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c341,27,26,5.35,Development.Time,1,single,DevTime,any
+a73,Margaritopoulos,Bulletin of Entomological Research,2003,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c341,20.2,33,6.052834047,Development.Time,2,mix,DevTime,any
+a74,Marques,Functional Ecology,2015,Euseius_concordis,Terrestrial,Secondary.Consumer,N,c125,0.79874643,10,0.619266055,Egg.Production,1,single,Repro,F
+a74,Marques,Functional Ecology,2015,Euseius_concordis,Terrestrial,Secondary.Consumer,N,c125,1.207470872,10,0.385321101,Egg.Production,1,single,Repro,F
+a74,Marques,Functional Ecology,2015,Euseius_concordis,Terrestrial,Secondary.Consumer,N,c125,1.809304471,10,0.371578588,Egg.Production,2,mix,Repro,F
+a74,Marques,Functional Ecology,2015,Iphiseiodes_zuluagai,Terrestrial,Secondary.Consumer,N,c126,1.30572194,10,0.467889908,Egg.Production,1,single,Repro,F
+a74,Marques,Functional Ecology,2015,Iphiseiodes_zuluagai,Terrestrial,Secondary.Consumer,N,c126,1.407106933,10,0.495393889,Egg.Production,1,single,Repro,F
+a74,Marques,Functional Ecology,2015,Iphiseiodes_zuluagai,Terrestrial,Secondary.Consumer,N,c126,1.903442262,10,0.536716203,Egg.Production,2,mix,Repro,F
+a75,Martin-Creuzburg,Oecologia,2005,Daphnia_magna,Marine,Primary.Consumer,N,c129,46.398,5,1.815,Fecundity,1,single,Repro,F
+a75,Martin-Creuzburg,Oecologia,2005,Daphnia_magna,Marine,Primary.Consumer,N,c129,26.275,5,2.539,Fecundity,2,mix,Repro,F
+a75,Martin-Creuzburg,Oecologia,2005,Daphnia_galeata,Marine,Primary.Consumer,N,c130,10.082,10,0.406,Fecundity,1,single,Repro,F
+a75,Martin-Creuzburg,Oecologia,2005,Daphnia_galeata,Marine,Primary.Consumer,N,c130,3.602,10,0.198,Fecundity,2,mix,Repro,F
+a75,Martin-Creuzburg,Oecologia,2005,Daphnia_magna,Marine,Primary.Consumer,N,c127,682.183,5,31.072,Mass,1,single,Size,F
+a75,Martin-Creuzburg,Oecologia,2005,Daphnia_magna,Marine,Primary.Consumer,N,c127,407.562,5,56.543,Mass,2,mix,Size,F
+a75,Martin-Creuzburg,Oecologia,2005,Daphnia_galeata,Marine,Primary.Consumer,N,c128,61.819,10,2.368,Mass,1,single,Size,F
+a75,Martin-Creuzburg,Oecologia,2005,Daphnia_galeata,Marine,Primary.Consumer,N,c128,39.972,10,0.294,Mass,2,mix,Size,F
+a76,Marucci,Brazilian Journal of Biology,2019,Doru_luteipes,Terrestrial,Secondary.Consumer,N,c304,31.2,37,5.34,Developmental.Time,1,single,DevTime,any
+a76,Marucci,Brazilian Journal of Biology,2019,Doru_luteipes,Terrestrial,Secondary.Consumer,N,c304,37.6,18,8.287442307,Developmental.Time,1,single,DevTime,any
+a76,Marucci,Brazilian Journal of Biology,2019,Doru_luteipes,Terrestrial,Secondary.Consumer,N,c304,30.3,37,3.54,Developmental.Time,2,mix,DevTime,any
+a77,Mason,Plant Microbe Animal interactions,2014,Grammia_incorrupta,Terrestrial,Primary.Consumer,Y,c303,6.154954955,13,0.677477477,6th.Stadium.Duration,1,single,DevTime,any
+a77,Mason,Plant Microbe Animal interactions,2014,Grammia_incorrupta,Terrestrial,Primary.Consumer,Y,c303,4.396396396,20,2.513239031,6th.Stadium.Duration,1,single,DevTime,any
+a77,Mason,Plant Microbe Animal interactions,2014,Grammia_incorrupta,Terrestrial,Primary.Consumer,Y,c303,5.881081081,15,2.265219607,6th.Stadium.Duration,2,mix,DevTime,any
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c132,35.6,5,3.8,Longevity,1,single,Longevity,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c132,31.6,5,4.6,Longevity,1,single,Longevity,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c132,17.4,5,1.6,Longevity,1,single,Longevity,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c132,41.4,5,1.4,Longevity,2,mix,Longevity,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c132,20.8,5,4.4,Longevity,2,mix,Longevity,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c132,19.8,5,3,Longevity,2,mix,Longevity,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c131,132,5,7.6,Total.Offspring,1,single,Repro,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c131,66.8,5,4.8,Total.Offspring,1,single,Repro,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c131,32.4,5,3.4,Total.Offspring,1,single,Repro,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c131,113,5,2.6,Total.Offspring,2,mix,Repro,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c131,76.2,5,16,Total.Offspring,2,mix,Repro,F
+a78,Matias-Peralta,Aquaculture,2012,Nitocra_affinis,Marine,Primary.Consumer,N,c131,46.4,5,4.8,Total.Offspring,2,mix,Repro,F
+a79,McTigue,Journal of Experimental Marine Biology and Ecology,1991,Penaeus_setiferus,Marine,Secondary.Consumer,N,c133,0.043421053,25,0.019338077,Weight.Gain,1,single,Size,any
+a79,McTigue,Journal of Experimental Marine Biology and Ecology,1991,Penaeus_setiferus,Marine,Secondary.Consumer,N,c133,0.051315789,25,0.02685844,Weight.Gain,1,single,Size,any
+a79,McTigue,Journal of Experimental Marine Biology and Ecology,1991,Penaeus_setiferus,Marine,Secondary.Consumer,N,c133,0.110964912,25,0.02256109,Weight.Gain,3,mix,Size,any
+a79,McTigue,Journal of Experimental Marine Biology and Ecology,1991,Penaeus_aztecus,Marine,Secondary.Consumer,N,c134,0.061493997,25,0.022270924,Weight.Gain,1,single,Size,any
+a79,McTigue,Journal of Experimental Marine Biology and Ecology,1991,Penaeus_aztecus,Marine,Secondary.Consumer,N,c134,0.093604614,25,0.028817159,Weight.Gain,2,mix,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_tuberculata,Marine,Primary.Consumer,N,c135,78.17227427,63,45.24619678,Growth.Rate,1,single,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_tuberculata,Marine,Primary.Consumer,N,c135,27.52068676,63,18.50246902,Growth.Rate,1,single,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_tuberculata,Marine,Primary.Consumer,N,c135,42.41196734,63,14.3369917,Growth.Rate,1,single,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_tuberculata,Marine,Primary.Consumer,N,c135,48.14684869,63,41.11659782,Growth.Rate,1,single,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_tuberculata,Marine,Primary.Consumer,N,c135,96.97535815,63,51.39574727,Growth.Rate,4,mix,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_discus,Marine,Primary.Consumer,N,c136,48.40468376,63,22.32298469,Growth.Rate,1,single,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_discus,Marine,Primary.Consumer,N,c136,34.2399851,63,14.51598028,Growth.Rate,1,single,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_discus,Marine,Primary.Consumer,N,c136,19.36817477,63,7.828576674,Growth.Rate,1,single,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_discus,Marine,Primary.Consumer,N,c136,37.63938127,63,17.86615377,Growth.Rate,1,single,Size,any
+a80,Mercer,Invertebrate Reproduction and Development,1993,Haliotis_discus,Marine,Primary.Consumer,N,c136,47.2715517,63,23.43827103,Growth.Rate,4,mix,Size,any
+a81,Messelink,BioControl,2013,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c137,10.09725159,11,3.931118952,Daily.Egg.Production,1,single,Repro,F
+a81,Messelink,BioControl,2013,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c137,7.99154334,11,3.128849778,Daily.Egg.Production,1,single,Repro,F
+a81,Messelink,BioControl,2013,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c137,9.589852008,11,1.283630678,Daily.Egg.Production,2,mix,Repro,F
+a82,Michaud,Biological Control,2005,Coleomegilla_maculata,Terrestrial,Secondary.Consumer,N,c138,153.9,18,39.58181401,Eggs.Laid,1,single,Repro,F
+a82,Michaud,Biological Control,2005,Coleomegilla_maculata,Terrestrial,Secondary.Consumer,N,c138,155.2,16,32.92035844,Eggs.Laid,2,mix,Repro,F
+a82,Michaud,Biological Control,2005,Coleomegilla_maculata,Terrestrial,Secondary.Consumer,N,c138,162.1,17,30.4,Eggs.Laid,2,mix,Repro,F
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c139,330.6951518,9,52.24007882,Mass,1,single,Size,M
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c139,314.3850606,11,52.55801931,Mass,1,single,Size,M
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c139,395.9569928,11,46.7023089,Mass,1,single,Size,M
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c139,377.7951634,14,53.26603248,Mass,2,mix,Size,M
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c139,391.0317509,10,38.78627968,Mass,2,mix,Size,M
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c139,409.8068492,9,52.24007882,Mass,2,mix,Size,M
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c140,452.7165872,4,47.98557646,Mass,1,single,Size,F
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c140,451.1774492,11,52.57311135,Mass,1,single,Size,F
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c140,595.5509876,15,55.27677424,Mass,1,single,Size,F
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c140,545.9931276,13,57.58269176,Mass,2,mix,Size,F
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c140,605.4038576,9,52.24007882,Mass,2,mix,Size,F
+a83,Miura,Ecological Research,2004,Parapodisma_subastris,Terrestrial,Primary.Consumer,N,c140,565.0760535,13,51.18461489,Mass,2,mix,Size,F
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c141,13.28,23,4.502799129,Adult.Longevity,1,single,Longevity,M
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c141,12.11,19,4.369919908,Adult.Longevity,1,single,Longevity,M
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c141,12.67,14,4.254550505,Adult.Longevity,2,mix,Longevity,M
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c142,16.32,19,3.436538957,Adult.Longevity,1,single,Longevity,F
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c142,14.17,18,3.669564007,Adult.Longevity,1,single,Longevity,F
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c142,14.17,14,4.18243948,Adult.Longevity,2,mix,Longevity,F
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c143,78.85,14,46.47555594,Eggs.Per.Ovipositing.Female,1,single,Repro,F
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c143,87.33,21,39.93617408,Eggs.Per.Ovipositing.Female,1,single,Repro,F
+a84,Miwa,Journal of Insect Science,2015,Colaspis_crinicornis,Terrestrial,Primary.Consumer,N,c143,73.58,12,29.41846189,Eggs.Per.Ovipositing.Female,2,mix,Repro,F
+a85,Munoz-Cardenas,Experimental and Applied Acarology,2014,Balaustium_leander,Terrestrial,Secondary.Consumer,N,c144,22.3655914,10,4.814554617,Fecundity,1,single,Repro,F
+a85,Munoz-Cardenas,Experimental and Applied Acarology,2014,Balaustium_leander,Terrestrial,Secondary.Consumer,N,c144,42.58064516,6,11.76235639,Fecundity,1,single,Repro,F
+a85,Munoz-Cardenas,Experimental and Applied Acarology,2014,Balaustium_leander,Terrestrial,Secondary.Consumer,N,c144,43.11827957,16,18.48666959,Fecundity,1,single,Repro,F
+a85,Munoz-Cardenas,Experimental and Applied Acarology,2014,Balaustium_leander,Terrestrial,Secondary.Consumer,N,c144,37.41935484,28,27.58678417,Fecundity,2,mix,Repro,F
+a85,Munoz-Cardenas,Experimental and Applied Acarology,2014,Balaustium_leander,Terrestrial,Secondary.Consumer,N,c144,40.32258065,20,28.90119929,Fecundity,2,mix,Repro,F
+a85,Munoz-Cardenas,Experimental and Applied Acarology,2014,Balaustium_leander,Terrestrial,Secondary.Consumer,N,c144,23.44086022,15,14.19575204,Fecundity,2,mix,Repro,F
+a85,Munoz-Cardenas,Experimental and Applied Acarology,2014,Balaustium_leander,Terrestrial,Secondary.Consumer,N,c144,36.02150538,20,24.20252633,Fecundity,3,mix,Repro,F
+a86,Murray,Journal of Experimental Marine Biology and Ecology,2002,Centropages_hamatus,Marine,Primary.Consumer,N,c145,0.965,167,0.072,Prosome.Length,1,single,Size,F
+a86,Murray,Journal of Experimental Marine Biology and Ecology,2002,Centropages_hamatus,Marine,Primary.Consumer,N,c145,0.831,41,0.057,Prosome.Length,1,single,Size,F
+a86,Murray,Journal of Experimental Marine Biology and Ecology,2002,Centropages_hamatus,Marine,Primary.Consumer,N,c145,0.983,73,0.047,Prosome.Length,1,single,Size,F
+a86,Murray,Journal of Experimental Marine Biology and Ecology,2002,Centropages_hamatus,Marine,Primary.Consumer,N,c145,1.007,63,0.044,Prosome.Length,1,single,Size,F
+a86,Murray,Journal of Experimental Marine Biology and Ecology,2002,Centropages_hamatus,Marine,Primary.Consumer,N,c145,1.026,211,0.043,Prosome.Length,4,mix,Size,F
+a87,Naidoo,Journal of Applied Phycology,2006,Haliotis_midae,Marine,Primary.Consumer,N,c146,22.81,50,1.82,Live.Weight,1,single,Size,any
+a87,Naidoo,Journal of Applied Phycology,2006,Haliotis_midae,Marine,Primary.Consumer,N,c146,23.15,50,2.24,Live.Weight,2,mix,Size,any
+a87,Naidoo,Journal of Applied Phycology,2006,Haliotis_midae,Marine,Primary.Consumer,N,c146,27.78,50,2.52,Live.Weight,3,mix,Size,any
+a88,Nandakumar,Indian Journal of Geo-Marine Sciences,2015,Macrosetella_gracilis,Marine,Primary.Consumer,N,c147,39.68169761,3,4.201377161,Daily.Nauplius.Production,1,single,Repro,F
+a88,Nandakumar,Indian Journal of Geo-Marine Sciences,2015,Macrosetella_gracilis,Marine,Primary.Consumer,N,c147,26.52519894,3,3.901278793,Daily.Nauplius.Production,1,single,Repro,F
+a88,Nandakumar,Indian Journal of Geo-Marine Sciences,2015,Macrosetella_gracilis,Marine,Primary.Consumer,N,c147,63.66047745,3,6.902262479,Daily.Nauplius.Production,1,single,Repro,F
+a88,Nandakumar,Indian Journal of Geo-Marine Sciences,2015,Macrosetella_gracilis,Marine,Primary.Consumer,N,c147,18.46153846,3,10.80354127,Daily.Nauplius.Production,1,single,Repro,F
+a88,Nandakumar,Indian Journal of Geo-Marine Sciences,2015,Macrosetella_gracilis,Marine,Primary.Consumer,N,c147,26.31299735,3,3.000983687,Daily.Nauplius.Production,1,single,Repro,F
+a88,Nandakumar,Indian Journal of Geo-Marine Sciences,2015,Macrosetella_gracilis,Marine,Primary.Consumer,N,c147,66.41909814,3,6.602164111,Daily.Nauplius.Production,5,mix,Repro,F
+a89,Nesbit,Oikos,2016,Chrysoperla_carnea,Terrestrial,Secondary.Consumer,Y,c148,0.875880282,12,0.452532432,Growth.Rate,1,single,Size,any
+a89,Nesbit,Oikos,2016,Chrysoperla_carnea,Terrestrial,Secondary.Consumer,N,c148,1.272007042,11,0.334043415,Growth.Rate,1,single,Size,any
+a89,Nesbit,Oikos,2016,Chrysoperla_carnea,Terrestrial,Secondary.Consumer,Y,c148,0.783450704,11,0.501065122,Growth.Rate,2,mix,Size,any
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c149,25.54,26,4.2,Weight,1,single,Size,any
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c149,18.88,20,2.920462292,Weight,1,single,Size,any
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c149,25.44,18,3.339715557,Weight,2,mix,Size,any
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c150,24.76,12,4.11261474,Weight,1,single,Size,M
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c150,24.78,11,3.573373756,Weight,1,single,Size,M
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c150,26.32,18,4.329260907,Weight,2,mix,Size,M
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c151,29.83,15,4.153239699,Weight,1,single,Size,F
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c151,29.6,24,3.644831958,Weight,1,single,Size,F
+a90,Nielsen,Journal of Applied Entomology,2002,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c151,31.56,15,4.45257229,Weight,2,mix,Size,F
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,10.8,108,1.5,Live.Weight,1,single,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,19.8,108,2,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,16.2,108,1.3,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,15.8,108,1.9,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,15.3,108,2,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,13.1,108,1.3,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,12.6,108,1.3,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,12.5,108,0.7,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,11.9,108,0.9,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,11.8,108,2.4,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,11.5,108,0.8,Live.Weight,2,mix,Size,any
+a91,O'Connor,Aquaculture,1992,Saccostrea_glomerata,Marine,Primary.Consumer,N,c152,7.2,108,0.3,Live.Weight,2,mix,Size,any
+a92,Ohs,Aquaculture,2010,Pseudodiaptomus_pelagicus,Marine,Primary.Consumer,N,c153,14.1,19,5.9,Fecundity,1,single,Repro,F
+a92,Ohs,Aquaculture,2010,Pseudodiaptomus_pelagicus,Marine,Primary.Consumer,N,c153,28.4,30,7.3,Fecundity,1,single,Repro,F
+a92,Ohs,Aquaculture,2010,Pseudodiaptomus_pelagicus,Marine,Primary.Consumer,N,c153,14,15,4.4,Fecundity,2,mix,Repro,F
+a92,Ohs,Aquaculture,2010,Pseudodiaptomus_pelagicus,Marine,Primary.Consumer,N,c153,24.2,30,5.7,Fecundity,2,mix,Repro,F
+a93,Pacheco,Brazilian Journal of Biology,2021,Doru_luteipes,Terrestrial,Secondary.Consumer,N,c308,59,9,4.921463197,Developmental.Stage,1,single,DevTime,any
+a93,Pacheco,Brazilian Journal of Biology,2021,Doru_luteipes,Terrestrial,Secondary.Consumer,N,c308,33.5,14,0.176672,Developmental.Stage,2,mix,DevTime,any
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c155,10.56,9,4.412346315,Female.Lifespan,1,single,Longevity,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c155,18,9,4.101219331,Female.Lifespan,1,single,Longevity,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c155,12.11,9,2.291025971,Female.Lifespan,2,mix,Longevity,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c155,12.38,8,2.169516075,Female.Lifespan,2,mix,Longevity,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c155,9.78,9,2.404163056,Female.Lifespan,2,mix,Longevity,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c155,13.38,8,2.778038877,Female.Lifespan,3,mix,Longevity,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c154,40.22,9,48.05497685,Egg.production,1,single,Repro,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c154,427.33,9,93.28152657,Egg.production,1,single,Repro,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c154,105,9,28.25598698,Egg.production,2,mix,Repro,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c154,188.5,8,48.78765418,Egg.production,2,mix,Repro,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c154,58.89,9,44.09517887,Egg.production,2,mix,Repro,F
+a94,Pan,Aquaculture Research,2012,Acartia_bilobata,Marine,Primary.Consumer,N,c154,223.13,8,63.9742667,Egg.production,3,mix,Repro,F
+a95,Pan,Aquaculture Nutrition,2017,Apocyclops_royi,Marine,Primary.Consumer,N,c156,17.76363636,90,3.430538593,Eggs.Per.Clutch,1,single,Repro,F
+a95,Pan,Aquaculture Nutrition,2017,Apocyclops_royi,Marine,Primary.Consumer,N,c156,18.98181818,90,2.229850086,Eggs.Per.Clutch,1,single,Repro,F
+a95,Pan,Aquaculture Nutrition,2017,Apocyclops_royi,Marine,Primary.Consumer,N,c156,19.65454545,90,2.744430875,Eggs.Per.Clutch,1,single,Repro,F
+a95,Pan,Aquaculture Nutrition,2017,Apocyclops_royi,Marine,Primary.Consumer,N,c156,20.87272727,90,2.058323156,Eggs.Per.Clutch,2,mix,Repro,F
+a95,Pan,Aquaculture Nutrition,2017,Apocyclops_royi,Marine,Primary.Consumer,N,c156,21.41818182,90,2.744430875,Eggs.Per.Clutch,2,mix,Repro,F
+a95,Pan,Aquaculture Nutrition,2017,Apocyclops_royi,Marine,Primary.Consumer,N,c156,22.10909091,90,2.744430875,Eggs.Per.Clutch,2,mix,Repro,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c327,8.8,13,0.45033321,Female.Development.Time,1,single,DevTime,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c327,8.1,17,0.52,Female.Development.Time,1,single,DevTime,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c327,7.8,14,0.39661064,Female.Development.Time,2,mix,DevTime,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c327,8,14,0.360555128,Female.Development.Time,2,mix,DevTime,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c327,8.2,15,0.448998886,Female.Development.Time,2,mix,DevTime,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c328,8.4,9,0.537401154,Male.Development.Time,1,single,DevTime,M
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c328,7.5,7,0.367423461,Male.Development.Time,1,single,DevTime,M
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c328,7.3,9,0.339411255,Male.Development.Time,2,mix,DevTime,M
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c328,7.2,8,0.555607775,Male.Development.Time,2,mix,DevTime,M
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c328,7.6,8,0.317490157,Male.Development.Time,2,mix,DevTime,M
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c157,7.26830003,9,2.016848316,5-day.Egg.Production,1,single,Repro,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c157,5.27878301,9,1.377264233,5-day.Egg.Production,1,single,Repro,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c157,3.188332162,9,2.410311811,5-day.Egg.Production,1,single,Repro,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c157,1.080490009,9,1.229807725,5-day.Egg.Production,1,single,Repro,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c157,7.121257154,9,1.770784529,5-day.Egg.Production,2,mix,Repro,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c157,6.17861231,9,1.524947947,5-day.Egg.Production,2,mix,Repro,F
+a96,Pappas,Experimental and Applied Acarology,2013,Phytoseius_finitimus,Terrestrial,Secondary.Consumer,N,c157,6.992509288,9,0.295140222,5-day.Egg.Production,2,mix,Repro,F
+a97,Pascual-Ruiz,Bulletin of Entomological Research,2009,Podisus_maculiventris,Terrestrial,Secondary.Consumer,N,c158,37,18,13.60624856,Weight.Gain,1,single,Size,any
+a97,Pascual-Ruiz,Bulletin of Entomological Research,2009,Podisus_maculiventris,Terrestrial,Secondary.Consumer,N,c158,41.3,19,9.75807358,Weight.Gain,1,single,Size,any
+a97,Pascual-Ruiz,Bulletin of Entomological Research,2009,Podisus_maculiventris,Terrestrial,Secondary.Consumer,N,c158,41.3,20,12.20491704,Weight.Gain,1,single,Size,any
+a97,Pascual-Ruiz,Bulletin of Entomological Research,2009,Podisus_maculiventris,Terrestrial,Secondary.Consumer,N,c158,49.7,18,10.30776406,Weight.Gain,3,mix,Size,any
+a98,Pedrotti,Invertebrate Reproduction and Development,1993,Arbacia_lixula,Marine,Primary.Consumer,N,c159,435.5,16,45.4,Post-larval.diameter,1,single,Size,any
+a98,Pedrotti,Invertebrate Reproduction and Development,1993,Arbacia_lixula,Marine,Primary.Consumer,N,c159,430.9,7,50.3,Post-larval.diameter,3,mix,Size,any
+a98,Pedrotti,Invertebrate Reproduction and Development,1993,Paracentrotus_lividus,Marine,Primary.Consumer,N,c160,318.9,44,24.9,Post-larval.diameter,1,single,Size,any
+a98,Pedrotti,Invertebrate Reproduction and Development,1993,Paracentrotus_lividus,Marine,Primary.Consumer,N,c160,322,17,19.4,Post-larval.diameter,3,mix,Size,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c342,58.35,14,1.766720125,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c342,52.78,18,1.772935419,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c343,27.2,15,1.758578972,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c343,21.11,19,1.781909089,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c344,19.43,14,1.44222051,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c344,17.05,20,1.394847662,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c345,17.28,14,1.766720125,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c345,14.47,17,1.76,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c346,15.75,12,1.724644891,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c346,13.68,16,1.781572339,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c347,20.8,17,0.96,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c347,16.83,18,0.783390069,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c348,23.07,15,2.13274471,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c348,17.01,20,0.828190799,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c349,21.05,17,3.24,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c349,15.21,20,0.610245852,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c355,20.93,16,1.316814338,Development.Time,1,single,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c355,17.73,19,0.890954544,Development.Time,2,mix,DevTime,any
+a99,Perdikis,Biological Control,2000,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c355,15.74,19,1.060660172,Development.Time,3,mix,DevTime,any
+a100,Pfannenstiel,Entomologia Experimentalis et Applicata,1988,Nabis_roseipennis,Terrestrial,Secondary.Consumer,N,c351,23.21985411,11,5.541338087,Development.Time,1,single,DevTime,F
+a100,Pfannenstiel,Entomologia Experimentalis et Applicata,1988,Nabis_roseipennis,Terrestrial,Secondary.Consumer,N,c351,24.31509408,11,2.881495805,Development.Time,2,mix,DevTime,F
+a100,Pfannenstiel,Entomologia Experimentalis et Applicata,1988,Nabis_roseipennis,Terrestrial,Secondary.Consumer,N,c352,22.67122961,11,1.936065257,Development.Time,1,single,DevTime,M
+a100,Pfannenstiel,Entomologia Experimentalis et Applicata,1988,Nabis_roseipennis,Terrestrial,Secondary.Consumer,N,c352,23.05396761,11,4.732037861,Development.Time,2,mix,DevTime,M
+a100,Pfannenstiel,Entomologia Experimentalis et Applicata,1988,Nabis_roseipennis,Terrestrial,Secondary.Consumer,N,c161,31.86123205,11,7.159923037,20-day.Egg.Production,1,single,Repro,F
+a100,Pfannenstiel,Entomologia Experimentalis et Applicata,1988,Nabis_roseipennis,Terrestrial,Secondary.Consumer,N,c161,30.67046039,11,16.11069407,20-day.Egg.Production,2,mix,Repro,F
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c162,29,8,7.2,Life.Span,1,single,Longevity,F
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c162,32.9,16,4.9,Life.Span,1,single,Longevity,F
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c162,32.7,9,4.6,Life.Span,2,mix,Longevity,F
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c163,29.4,27,7.9,Life.Span,1,single,Longevity,M
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c163,26.6,16,8,Life.Span,1,single,Longevity,M
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c163,17.9,9,4.1,Life.Span,2,mix,Longevity,M
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c164,69,8,24.6,Egg.Production,1,single,Repro,F
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c164,40.6,16,16.1,Egg.Production,1,single,Repro,F
+a101,Pinto,Aquaculture,2001,Tisbe_biminiensis,Marine,Primary.Consumer,N,c164,46,9,17.1,Egg.Production,2,mix,Repro,F
+a102,Pumarino,Biological Control,2012,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c165,25.6,15,12.27263623,Female.Longevity,1,single,Longevity,F
+a102,Pumarino,Biological Control,2012,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c165,40.6,15,9.167060598,Female.Longevity,2,mix,Longevity,F
+a102,Pumarino,Biological Control,2012,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c166,12.47,15,13.99379863,Fecundity,1,single,Repro,F
+a102,Pumarino,Biological Control,2012,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c166,274.87,15,85.64653758,Fecundity,2,mix,Repro,F
+a103,Pumarino,Entomologia Experimentalis et Applicata,2012,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c167,15.34,32,8.852745337,Longevity,1,single,Longevity,F
+a103,Pumarino,Entomologia Experimentalis et Applicata,2012,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c167,16.09,32,9.019778268,Longevity,1,single,Longevity,F
+a103,Pumarino,Entomologia Experimentalis et Applicata,2012,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c167,15.5,32,9.131133555,Longevity,3,mix,Longevity,F
+a104,Ragusa,Entomophaga,1977,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c168,0.31,5,0.08,Daily.Egg.Production,1,single,Repro,F
+a104,Ragusa,Entomophaga,1977,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c168,0.67,5,0.14,Daily.Egg.Production,2,mix,Repro,F
+a104,Ragusa,Entomophaga,1977,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c168,0.41,5,0.06,Daily.Egg.Production,2,mix,Repro,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c170,26.00917431,5,1.513761468,Female.lifespan,1,single,Longevity,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c170,22.01834862,5,1.513761468,Female.lifespan,1,single,Longevity,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c170,25.80275229,5,1.444954128,Female.lifespan,1,single,Longevity,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c170,26.00917431,5,1.788990826,Female.lifespan,2,mix,Longevity,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c170,24.22018349,5,1.926605505,Female.lifespan,2,mix,Longevity,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c169,8.676789588,5,0.390455531,Daily.offspring,1,single,Repro,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c169,2.147505423,5,0.065075922,Daily.offspring,1,single,Repro,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c169,8.264642082,5,0.412147505,Daily.offspring,1,single,Repro,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c169,8.676789588,5,0.260303688,Daily.offspring,2,mix,Repro,F
+a105,Rasdi,Aquaculture International,2018,Cyclopina_kasignete,Marine,Primary.Consumer,N,c169,4.555314534,5,0.347071584,Daily.offspring,2,mix,Repro,F
+a106,Rickers,Functional Ecology,2006,Pardosa_lugubris,Terrestrial,Secondary.Consumer,N,c171,9.351,15,1.526,Weight,1,single,Size,F
+a106,Rickers,Functional Ecology,2006,Pardosa_lugubris,Terrestrial,Secondary.Consumer,N,c171,8.137,15,1.972,Weight,1,single,Size,F
+a106,Rickers,Functional Ecology,2006,Pardosa_lugubris,Terrestrial,Secondary.Consumer,N,c171,8.605,15,1.309,Weight,2,mix,Size,F
+a107,Rinehart,Ecosphere,2018,Naemia_seriata,Terrestrial,Secondary.Consumer,N,c173,32.2,24,23.01999131,Longevity,1,single,Longevity,any
+a107,Rinehart,Ecosphere,2018,Naemia_seriata,Terrestrial,Secondary.Consumer,N,c173,27.2,25,22.53530563,Longevity,1,single,Longevity,any
+a107,Rinehart,Ecosphere,2018,Naemia_seriata,Terrestrial,Secondary.Consumer,N,c173,45.9,21,22.36067977,Longevity,2,mix,Longevity,any
+a107,Rinehart,Ecosphere,2018,Naemia_seriata,Terrestrial,Secondary.Consumer,N,c172,0.917282012,20,2.709286176,Larva.production,1,single,Repro,F
+a107,Rinehart,Ecosphere,2018,Naemia_seriata,Terrestrial,Secondary.Consumer,N,c172,6.971203135,20,14.06639661,Larva.production,1,single,Repro,F
+a107,Rinehart,Ecosphere,2018,Naemia_seriata,Terrestrial,Secondary.Consumer,N,c172,7.025007462,20,8.856557235,Larva.production,2,mix,Repro,F
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c305,19.2,19,1.272792206,Developmental.Time,1,single,DevTime,any
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c305,18.5,20,0.871779789,Developmental.Time,1,single,DevTime,any
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c305,18.8,19,0.848528137,Developmental.Time,2,mix,DevTime,any
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c175,61.8,16,17.42842506,Female.Lifespan,1,single,Longevity,F
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c175,73.8,15,2.244994432,Female.Lifespan,1,single,Longevity,F
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c175,70,16,6.196773354,Female.Lifespan,2,mix,Longevity,F
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c176,88,3,24.32447327,Male.Lifespan,1,single,Longevity,M
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c176,79.2,5,22,Male.Lifespan,1,single,Longevity,M
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c176,85.3,3,23.75878785,Male.Lifespan,2,mix,Longevity,M
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c174,95,19,28.84995667,Egg.Production,1,single,Repro,F
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c174,99.8,20,17.87148567,Egg.Production,1,single,Repro,F
+a108,Rueda-Ramirez,Systematic & Applied Acarology,2018,Gaeolaelaps_aculeifer,Terrestrial,Secondary.Consumer,N,c174,100.3,19,8.909545443,Egg.Production,2,mix,Repro,F
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c177,7.1,20,3.923009049,Female.Longevity,1,single,Longevity,F
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c177,8.5,20,4.794788838,Female.Longevity,1,single,Longevity,F
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c177,8.4,19,4.242640687,Female.Longevity,2,mix,Longevity,F
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c178,11.4,22,5.499090834,Male.Longevity,1,single,Longevity,M
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c178,12.3,23,6.566582064,Male.Longevity,1,single,Longevity,M
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c178,13.4,19,7.636753237,Male.Longevity,2,mix,Longevity,M
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c179,47.8,20,34.87119155,Fecundity,1,single,Repro,F
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c179,89.9,20,72.79361236,Fecundity,1,single,Repro,F
+a109,Rueda-Ramirez,Pest Management Science,2019,Parasitus_bituberosus,Terrestrial,Secondary.Consumer,N,c179,109.9,19,72.97341982,Fecundity,2,mix,Repro,F
+a110,Samaras,Frontiers in Ecology and Evolution,2019,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c181,0.009,14,0.007211103,Daily.Egg.Production,1,single,Repro,F
+a110,Samaras,Frontiers in Ecology and Evolution,2019,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c181,1.6,22,0.412431813,Daily.Egg.Production,1,single,Repro,F
+a110,Samaras,Frontiers in Ecology and Evolution,2019,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c181,1.3,21,0.357770876,Daily.Egg.Production,2,mix,Repro,F
+a110,Samaras,Frontiers in Ecology and Evolution,2019,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c329,7.875133,12,0.4378825,Development.Time,1,single,DevTime,any
+a110,Samaras,Frontiers in Ecology and Evolution,2019,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c329,6.022896,40,0.7077319,Development.Time,1,single,DevTime,any
+a110,Samaras,Frontiers in Ecology and Evolution,2019,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c329,6.026336,40,0.7077198,Development.Time,2,mix,DevTime,any
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c317,6.5,16,0.697137002,Development.Time,1,single,DevTime,any
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c317,5.5,26,0.7,Development.Time,1,single,DevTime,any
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c317,6.5,23,0.703562364,Development.Time,1,single,DevTime,any
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c317,6.5,24,0.671416413,Development.Time,1,single,DevTime,any
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c317,5.6,26,0.7,Development.Time,2,mix,DevTime,any
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c317,6.1,25,0.734846923,Development.Time,2,mix,DevTime,any
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c317,6.5,21,0.670820393,Development.Time,2,mix,DevTime,any
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c180,1.9,15,0.336749165,Daily.Egg.Production,1,single,Repro,F
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c180,1.9,15,0.299332591,Daily.Egg.Production,1,single,Repro,F
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c180,1.4,15,0.299332591,Daily.Egg.Production,1,single,Repro,F
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c180,0.7,15,0.299332591,Daily.Egg.Production,1,single,Repro,F
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c180,2.3,15,0.299332591,Daily.Egg.Production,2,mix,Repro,F
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c180,1.9,15,0.299332591,Daily.Egg.Production,2,mix,Repro,F
+a111,Samaras,Biological Control,2021,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c180,2.1,15,0.336749165,Daily.Egg.Production,2,mix,Repro,F
+a112,Sasakawa,Applied Entomology and Zoology,2007,Amara_macronota,Terrestrial,Secondary.Consumer,N,c356,20.3,10,4.57,Developmental.Stage,1,single,DevTime,any
+a112,Sasakawa,Applied Entomology and Zoology,2007,Amara_macronota,Terrestrial,Secondary.Consumer,N,c356,21.8,5,2.86,Developmental.Stage,1,single,DevTime,any
+a112,Sasakawa,Applied Entomology and Zoology,2007,Amara_macronota,Terrestrial,Secondary.Consumer,N,c356,19.28,18,4.48,Developmental.Stage,5,mix,DevTime,any
+a112,Sasakawa,Applied Entomology and Zoology,2007,Amara_macronota,Terrestrial,Secondary.Consumer,N,c356,21,7,2.45,Developmental.Stage,4,mix,DevTime,any
+a113,Sasakawa,Entomologica Experimentalis et Applicata,2009,Amara_macronota,Terrestrial,Secondary.Consumer,N,c182,1.548,10,1.298,Egg.Production.Rate,1,single,Repro,F
+a113,Sasakawa,Entomologica Experimentalis et Applicata,2009,Amara_macronota,Terrestrial,Secondary.Consumer,N,c182,3.01,10,1.488,Egg.Production.Rate,4,mix,Repro,F
+a114,Sasakawa,Entomological Science,2010,Amara_gigantea,Terrestrial,Secondary.Consumer,N,c357,34.4,10,3.57,Developmental.Stage,1,single,DevTime,any
+a114,Sasakawa,Entomological Science,2010,Amara_gigantea,Terrestrial,Secondary.Consumer,N,c357,37.1,10,3.3,Developmental.Stage,4,mix,DevTime,any
+a114,Sasakawa,Entomological Science,2010,Amara_gigantea,Terrestrial,Secondary.Consumer,N,c358,30.4,5,2.06,Developmental.Stage,1,single,DevTime,any
+a114,Sasakawa,Entomological Science,2010,Amara_gigantea,Terrestrial,Secondary.Consumer,N,c358,30.4,7,2.327015256,Developmental.Stage,4,mix,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_chalcites,Terrestrial,Secondary.Consumer,N,c306,31.64,11,1.91,Developmental.Time,1,single,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_chalcites,Terrestrial,Secondary.Consumer,N,c306,34.67,12,2.96,Developmental.Time,1,single,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_chalcites,Terrestrial,Secondary.Consumer,N,c306,31.63,8,1.51,Developmental.Time,1,single,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_chalcites,Terrestrial,Secondary.Consumer,N,c306,36.31,16,2.82,Developmental.Time,1,single,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_chalcites,Terrestrial,Secondary.Consumer,N,c306,32,10,1.05,Developmental.Time,3,mix,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_chalcites,Terrestrial,Secondary.Consumer,N,c306,33.19,16,2.1,Developmental.Time,4,mix,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_congrua,Terrestrial,Secondary.Consumer,N,c307,31.33,9,1.8,Developmental.Time,1,single,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_congrua,Terrestrial,Secondary.Consumer,N,c307,35,3,1,Developmental.Time,1,single,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_congrua,Terrestrial,Secondary.Consumer,N,c307,30.14,7,0.9,Developmental.Time,1,single,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_congrua,Terrestrial,Secondary.Consumer,N,c307,32.79,14,1.58,Developmental.Time,3,mix,DevTime,any
+a115,Sasakawa,Applied Entomology and Zoology,2011,Amara_congrua,Terrestrial,Secondary.Consumer,N,c307,33.6,10,1.17,Developmental.Time,4,mix,DevTime,any
+a116,Saveanu,Marine and Freshwater Research,2017,Pomacea_canaliculata,Terrestrial,Secondary.Consumer,N,c183,7.289131415,10,3.433781043,Live.Weight,1,single,Size,any
+a116,Saveanu,Marine and Freshwater Research,2017,Pomacea_canaliculata,Terrestrial,Secondary.Consumer,N,c183,2.197562265,10,0.349287286,Live.Weight,1,single,Size,any
+a116,Saveanu,Marine and Freshwater Research,2017,Pomacea_canaliculata,Terrestrial,Secondary.Consumer,N,c183,7.22869091,10,3.142642095,Live.Weight,2,mix,Size,any
+a117,Schuldiner-Harpaz,Pest Management Science,2016,Hoppodamia_variegata,Terrestrial,Secondary.Consumer,N,c184,0.98286445,9,0.058312021,Eggs.Laid,1,single,Repro,F
+a117,Schuldiner-Harpaz,Pest Management Science,2016,Hoppodamia_variegata,Terrestrial,Secondary.Consumer,N,c184,0.941436061,9,0.073661126,Eggs.Laid,2,mix,Repro,F
+a117,Schuldiner-Harpaz,Pest Management Science,2016,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c185,0.633540373,7,0.089440994,Eggs.Laid,1,single,Repro,F
+a117,Schuldiner-Harpaz,Pest Management Science,2016,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c185,1.29689441,7,0.305590062,Eggs.Laid,2,mix,Repro,F
+a118,Seymour,Aquaculture,2013,Tripneustes_gratilla,Marine,Primary.Consumer,N,c186,3.365006749,7,4.126843174,Body.Weight.Change,1,single,Size,any
+a118,Seymour,Aquaculture,2013,Tripneustes_gratilla,Marine,Primary.Consumer,N,c186,2.681079481,7,2.729127786,Body.Weight.Change,1,single,Size,any
+a118,Seymour,Aquaculture,2013,Tripneustes_gratilla,Marine,Primary.Consumer,N,c186,2.567802375,7,2.396317852,Body.Weight.Change,1,single,Size,any
+a118,Seymour,Aquaculture,2013,Tripneustes_gratilla,Marine,Primary.Consumer,N,c186,6.44456506,7,4.39309112,Body.Weight.Change,4,mix,Size,any
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c187,0.153498676,7,0.025655345,Pupal.Weight,1,single,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c187,0.120416574,6,0.0133801,Pupal.Weight,1,single,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c187,0.120749486,6,0.017841056,Pupal.Weight,3,mix,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c188,0.097340832,3,0.011313771,Pupal.Weight,1,single,Size,M
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c188,0.118281024,7,0.017293304,Pupal.Weight,2,mix,Size,M
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c189,0.121247505,4,0.041567544,Pupal.Weight,1,single,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c189,0.151600614,6,0.008418185,Pupal.Weight,2,mix,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c190,0.160105488,8,0.015914294,Pupal.Weight,1,single,Size,M
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c190,0.104316762,10,0.020300752,Pupal.Weight,1,single,Size,M
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c190,0.165673512,3,0.034020901,Pupal.Weight,2,mix,Size,M
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c190,0.15048629,5,0.009022556,Pupal.Weight,3,mix,Size,M
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c191,0.240496764,8,0.053705792,Pupal.Weight,1,single,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c191,0.111021958,3,0.030836236,Pupal.Weight,1,single,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c191,0.242453148,7,0.034992711,Pupal.Weight,1,single,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c191,0.19418509,9,0.029762337,Pupal.Weight,2,mix,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c191,0.239146373,6,0.031943828,Pupal.Weight,3,mix,Size,F
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c192,0.113169228,6,0.007806673,Pupal.Weight,1,single,Size,M
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c192,0.119983416,4,0.014685627,Pupal.Weight,1,single,Size,M
+a119,Singer,Oikos,2001,Grammia_geneura,Terrestrial,Primary.Consumer,N,c192,0.109345066,7,0.009773465,Pupal.Weight,3,mix,Size,M
+a120,Siqwepu,Aquaculture,2017,Pseudodiaptomus_hessei,Marine,Primary.Consumer,N,c193,34.58,60,33.9956,Fecundity,1,single,Repro,F
+a120,Siqwepu,Aquaculture,2017,Pseudodiaptomus_hessei,Marine,Primary.Consumer,N,c193,23.01,60,33.0757,Fecundity,1,single,Repro,F
+a120,Siqwepu,Aquaculture,2017,Pseudodiaptomus_hessei,Marine,Primary.Consumer,N,c193,23.4,60,33.9945,Fecundity,2,mix,Repro,F
+a121,Smyers,Northeastern Naturalist,2011,Limnephilus_indivisus,Terrestrial,Primary.Consumer,N,c194,1.402836166,18,1.620410539,Case.Growth,1,single,Size,any
+a121,Smyers,Northeastern Naturalist,2011,Limnephilus_indivisus,Terrestrial,Primary.Consumer,N,c194,3.760879863,20,1.570645058,Case.Growth,1,single,Size,any
+a121,Smyers,Northeastern Naturalist,2011,Limnephilus_indivisus,Terrestrial,Primary.Consumer,N,c194,3.346075848,24,1.727552847,Case.Growth,2,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c196,0.091395509,117,0.370781839,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c196,0.138773936,110,0.444996671,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c196,0.140253478,128,0.424881797,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c196,0.200575837,114,0.418235245,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c196,0.298779446,139,0.462125699,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c196,0.184353217,125,0.474598413,Weight.Gain,3,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c196,0.459261606,141,0.620736053,Weight.Gain,3,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c196,0.43615374,143,0.546948329,Weight.Gain,4,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,0.164268489,84,0.409896276,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,0.083770096,54,0.436748072,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,0.593279743,103,0.858376734,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,0.592757235,98,0.984964951,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,0.816776527,105,1.019721925,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,1.456286174,138,1.638469809,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,0.422266881,101,0.699919614,Weight.Gain,3,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,1.360779743,140,1.827233502,Weight.Gain,3,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c197,1.37028135,141,1.597151314,Weight.Gain,4,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,0.794701987,77,1.039207695,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,0.735099338,63,0.938623455,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,2.42384106,116,2.343613078,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,4.132450331,107,4.50007675,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,1.21192053,108,1.644092254,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,4.649006623,141,6.347052483,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,3.496688742,112,2.721129115,Weight.Gain,3,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,6.377483444,133,7.304344557,Weight.Gain,3,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c198,6.298013245,140,6.55857877,Weight.Gain,4,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,1.044776119,31,6.539970836,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,3.582089552,23,3.500310269,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,9.776119403,133,8.573974099,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,13.28358209,139,9.643338908,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,5.52238806,136,10.40502989,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,24.92537313,139,24.54668086,Weight.Gain,1,single,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,6.417910448,133,7.716576689,Weight.Gain,3,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,16.64179104,150,19.12967671,Weight.Gain,3,mix,Size,any
+a122,Soares,Aquaculture Research,2006,Farfantepenaeus_paulensis,Marine,Secondary.Consumer,N,c199,17.08955224,132,15.37458333,Weight.Gain,4,mix,Size,any
+a123,Soares,Ecotoxicology and Environmental Safety,2009,Daphnia_magna,Marine,Primary.Consumer,Y,c195,2.797,12,0.177,Size,1,single,Size,any
+a123,Soares,Ecotoxicology and Environmental Safety,2009,Daphnia_magna,Marine,Primary.Consumer,Y,c195,2.822,11,0.11,Size,2,mix,Size,any
+a124,Stuart,Aquaculture,1994,Haliotis_iris,Marine,Primary.Consumer,N,c200,9.7,120,66.82215202,Growth.Rate,1,single,Size,any
+a124,Stuart,Aquaculture,1994,Haliotis_iris,Marine,Primary.Consumer,N,c200,5.9,120,36.1496888,Growth.Rate,1,single,Size,any
+a124,Stuart,Aquaculture,1994,Haliotis_iris,Marine,Primary.Consumer,N,c200,0.8,120,23.00434742,Growth.Rate,1,single,Size,any
+a124,Stuart,Aquaculture,1994,Haliotis_iris,Marine,Primary.Consumer,N,c200,11.6,120,88.73105432,Growth.Rate,3,mix,Size,any
+a125,Taipale,FEMS Microbiology Ecology,2012,Daphnia_magna,Marine,Primary.Consumer,N,c201,4.1,12,0.1,Size,1,single,Size,any
+a125,Taipale,FEMS Microbiology Ecology,2012,Daphnia_magna,Marine,Primary.Consumer,N,c201,4,12,0.2,Size,2,mix,Size,any
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c202,10.1,7,4.5,Longevity,1,single,Longevity,any
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c202,15.3,14,6.6,Longevity,1,single,Longevity,any
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c202,16.3,15,5.4,Longevity,2,mix,Longevity,any
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c203,15.4,7,10.8,Fecundity,1,single,Repro,F
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c203,29.2,14,9.7,Fecundity,1,single,Repro,F
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c203,30.4,15,10.8,Fecundity,2,mix,Repro,F
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c335,17.2,66,2.1,Development.Time,1,single,DevTime,any
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c335,14.9,30,1.5,Development.Time,1,single,DevTime,any
+a126,Taketo,Japanese Journal of Applied Entomology and Zoology,1995,Orius_sauteri,Terrestrial,Secondary.Consumer,N,c335,13.3,30,1.7,Development.Time,2,mix,DevTime,any
+a127,Tang,Aquaculture,2006,Meretrix_meretrix,Marine,Primary.Consumer,N,c204,87.64478764,150,16.49534543,Shell.Length,1,single,Size,any
+a127,Tang,Aquaculture,2006,Meretrix_meretrix,Marine,Primary.Consumer,N,c204,51.35135135,150,58.91194795,Shell.Length,1,single,Size,any
+a127,Tang,Aquaculture,2006,Meretrix_meretrix,Marine,Primary.Consumer,N,c204,76.83397683,150,56.55547003,Shell.Length,1,single,Size,any
+a127,Tang,Aquaculture,2006,Meretrix_meretrix,Marine,Primary.Consumer,N,c204,94.01544402,150,63.62490379,Shell.Length,1,single,Size,any
+a127,Tang,Aquaculture,2006,Meretrix_meretrix,Marine,Primary.Consumer,N,c204,75.86872587,150,25.9212571,Shell.Length,1,single,Size,any
+a127,Tang,Aquaculture,2006,Meretrix_meretrix,Marine,Primary.Consumer,N,c204,88.22393822,150,37.70364669,Shell.Length,2,mix,Size,any
+a127,Tang,Aquaculture,2006,Meretrix_meretrix,Marine,Primary.Consumer,N,c204,88.8030888,150,16.49534543,Shell.Length,2,mix,Size,any
+a127,Tang,Aquaculture,2006,Meretrix_meretrix,Marine,Primary.Consumer,N,c204,91.50579151,150,49.48603628,Shell.Length,2,mix,Size,any
+a128,Taylor,Environmental Entomolgy,2009,Cheiracanthium_inclusum,Terrestrial,Secondary.Consumer,N,c207,194.3465,7,20.50419,Offspring,1,single,Repro,F
+a128,Taylor,Environmental Entomolgy,2009,Cheiracanthium_inclusum,Terrestrial,Secondary.Consumer,N,c207,200.5705,8,52.40219,Offspring,2,mix,Repro,F
+a128,Taylor,Environmental Entomolgy,2009,Cheiracanthium_inclusum,Terrestrial,Secondary.Consumer,N,c205,1.849618321,10,0.199236641,Male.Adult.carapace.width,1,single,Size,M
+a128,Taylor,Environmental Entomolgy,2009,Cheiracanthium_inclusum,Terrestrial,Secondary.Consumer,N,c205,1.961832061,11,0.159320859,Male.Adult.carapace.width,2,mix,Size,M
+a128,Taylor,Environmental Entomolgy,2009,Cheiracanthium_inclusum,Terrestrial,Secondary.Consumer,N,c206,2.112977099,8,0.193887119,Female.Adult.carapace.width,1,single,Size,F
+a128,Taylor,Environmental Entomolgy,2009,Cheiracanthium_inclusum,Terrestrial,Secondary.Consumer,N,c206,2.158778626,9,0.161932851,Female.Adult.carapace.width,2,mix,Size,F
+a129,Toft,Oecologia,1999,Schizocosa_stridulans,Terrestrial,Secondary.Consumer,N,c211,14.41233141,16,4.178941568,Size,1,single,Size,any
+a129,Toft,Oecologia,1999,Schizocosa_stridulans,Terrestrial,Secondary.Consumer,N,c211,7.013487476,3,3.814834272,Size,1,single,Size,any
+a129,Toft,Oecologia,1999,Schizocosa_stridulans,Terrestrial,Secondary.Consumer,N,c211,19.11368015,17,6.473988439,Size,2,mix,Size,any
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c210,114.0909,30,8.312094,Fecundity,1,single,Repro,F
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c210,23.18181,8,19.50665,Fecundity,1,single,Repro,F
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c210,108.6363,17,8.339389,Fecundity,2,mix,Repro,F
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c208,0.6360783,50,0.3367667,Female.Teneral.Mass,1,single,Size,F
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c208,0.5333364,51,0.2974401,Female.Teneral.Mass,1,single,Size,F
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c208,0.7082384,60,0.3837892,Female.Teneral.Mass,2,mix,Size,F
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c209,0.5179561,75,0.2517391,Male.Teneral.Mass,1,single,Size,M
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c209,0.4754478,35,0.2501764,Male.Teneral.Mass,1,single,Size,M
+a130,Toft,Journal of Applied Entomology,2020,Orius_majusculus,Terrestrial,Secondary.Consumer,N,c209,0.5698791,64,0.340933,Male.Teneral.Mass,2,mix,Size,M
+a131,Togni,Biological Control,2016,Cycloneda_sanguinea,Terrestrial,Secondary.Consumer,N,c212,21.99,30,5.169758215,Egg.Production.Rate,1,single,Repro,F
+a131,Togni,Biological Control,2016,Cycloneda_sanguinea,Terrestrial,Secondary.Consumer,N,c212,21.24,30,5.815977992,Egg.Production.Rate,2,mix,Repro,F
+a132,Ugine,Ecology Letters,2019,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c213,37.8,20,0.9,Female.Adult.Weight,1,single,Size,F
+a132,Ugine,Ecology Letters,2019,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c213,37.9,20,1,Female.Adult.Weight,2,mix,Size,F
+a132,Ugine,Ecology Letters,2019,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c214,30.1,20,1,Male.Adult.Weight,1,single,Size,M
+a132,Ugine,Ecology Letters,2019,Coccinella_septempunctata,Terrestrial,Secondary.Consumer,N,c214,30.4,20,0.7,Male.Adult.Weight,2,mix,Size,M
+a133,Vacacela Ajila,Pest Management Science,2018,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c215,15.2833638,15,1.778484315,7-day.Egg.Production,1,single,Repro,F
+a133,Vacacela Ajila,Pest Management Science,2018,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c215,6.691042048,15,1.368064858,7-day.Egg.Production,1,single,Repro,F
+a133,Vacacela Ajila,Pest Management Science,2018,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c215,19.59780622,23,1.371968047,7-day.Egg.Production,2,mix,Repro,F
+a133,Vacacela Ajila,Pest Management Science,2018,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c330,6.73,17,0.52,Development.Time,1,single,DevTime,any
+a133,Vacacela Ajila,Pest Management Science,2018,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c330,7.29,13,0.519615242,Development.Time,1,single,DevTime,any
+a133,Vacacela Ajila,Pest Management Science,2018,Neoseiulus_californicus,Terrestrial,Secondary.Consumer,N,c330,6.86,16,0.426028168,Development.Time,2,mix,DevTime,any
+a134,Vacante,Entomophaga,1997,Orius_albidipennis,Terrestrial,Secondary.Consumer,N,c323,13.5,28,0.727461339,Development.Time,1,single,DevTime,any
+a134,Vacante,Entomophaga,1997,Orius_albidipennis,Terrestrial,Secondary.Consumer,N,c323,13.34,32,0.890842298,Development.Time,2,mix,DevTime,any
+a134,Vacante,Entomophaga,1997,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c324,14.5,34,0.919130023,Development.Time,1,single,DevTime,any
+a134,Vacante,Entomophaga,1997,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c324,14.61,36,0.650768776,Development.Time,2,mix,DevTime,any
+a135,Vanderkerkhove,Biological Control,2010,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c319,18.5,23,1.407124728,Development.Time,1,single,DevTime,any
+a135,Vanderkerkhove,Biological Control,2010,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c319,17.4,57,1.496662955,Development.Time,1,single,DevTime,any
+a135,Vanderkerkhove,Biological Control,2010,Macrolophus_pygmaeus,Terrestrial,Secondary.Consumer,N,c319,17.4,26,1,Development.Time,2,mix,DevTime,any
+a137,Vangansbeke,Biological Control,2014,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c322,10.41,25,0.783836718,Development.Time,1,single,DevTime,any
+a137,Vangansbeke,Biological Control,2014,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c322,9.22,25,0.685857128,Development.Time,2,mix,DevTime,any
+a137,Vangansbeke,Biological Control,2014,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c322,9.74,25,0.685857128,Development.Time,2,mix,DevTime,any
+a137,Vangansbeke,Biological Control,2014,Frankliniella_occidentalis,Terrestrial,Secondary.Consumer,N,c322,9.94,25,1.028785692,Development.Time,2,mix,DevTime,any
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c217,19.6,32,4.45421149,Female.Longevity,1,single,Longevity,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c217,19.4,27,5.099019514,Female.Longevity,1,single,Longevity,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c217,18.8,11,4.110960958,Female.Longevity,1,single,Longevity,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c217,27.5,26,7,Female.Longevity,2,mix,Longevity,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c217,28.5,31,11.50217371,Female.Longevity,2,mix,Longevity,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c217,25.5,29,7.408103671,Female.Longevity,2,mix,Longevity,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c216,20.7,32,5.567764363,Fecundity,1,single,Repro,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c216,30.2,27,8.668333173,Fecundity,1,single,Repro,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c216,33.6,11,13.28156617,Fecundity,1,single,Repro,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c216,27,26,6,Fecundity,2,mix,Repro,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c216,36.4,31,11.50217371,Fecundity,2,mix,Repro,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c216,45.9,29,10.58300524,Fecundity,2,mix,Repro,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c331,7.08,39,0.9246621,Female.Development.Time,1,single,DevTime,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c331,6.58,31,0.602494813,Female.Development.Time,1,single,DevTime,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c331,6.85,13,0.796743371,Female.Development.Time,1,single,DevTime,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c331,7.88,29,0.84664042,Female.Development.Time,2,mix,DevTime,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c331,6.93,35,0.758023746,Female.Development.Time,2,mix,DevTime,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c331,5.9,29,0.582065288,Female.Development.Time,2,mix,DevTime,F
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c332,6.33,6,0.469574275,Male.Development.Time,1,single,DevTime,M
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c332,6.26,19,0.636396103,Male.Development.Time,1,single,DevTime,M
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c332,8.75,4,1.593486743,Male.Development.Time,1,single,DevTime,M
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c332,6.98,20,0.915368778,Male.Development.Time,2,mix,DevTime,M
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c332,6.47,15,0.897997773,Male.Development.Time,2,mix,DevTime,M
+a136,Vangansbeke,BioControl,2014,Amblydromalus_limonicus,Terrestrial,Secondary.Consumer,N,c332,5.88,20,0.435889894,Male.Development.Time,2,mix,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c219,28.8,17,8.4,Female.Lifespan,1,single,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c219,20.3,20,6.538348415,Female.Lifespan,2,mix,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c219,28.8,25,6.85857128,Female.Lifespan,2,mix,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c219,26.3,24,7.673330437,Female.Lifespan,2,mix,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c221,20.5,35,6.997142274,Female.Lifespan,1,single,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c221,24.9,35,7.580237463,Female.Lifespan,1,single,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c221,37.4,35,16.32666531,Female.Lifespan,1,single,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c221,31.1,36,11.24055159,Female.Lifespan,1,single,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c221,20,23,5.159457336,Female.Lifespan,2,mix,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c221,26.6,34,9.191300234,Female.Lifespan,2,mix,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c221,22,34,6.319018911,Female.Lifespan,2,mix,Longevity,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c218,106.9,17,40.8,Fecundity,1,single,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c218,236.7,20,95.45988686,Fecundity,2,mix,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c218,123.5,25,30.37367281,Fecundity,2,mix,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c218,134.9,24,51.3153973,Fecundity,2,mix,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c220,29.7,35,9.912618221,Fecundity,1,single,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c220,36.3,35,8.746427842,Fecundity,1,single,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c220,40.1,35,12.82809417,Fecundity,1,single,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c220,17.7,36,7.09929574,Fecundity,1,single,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c220,34.8,23,8.911789944,Fecundity,2,mix,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c220,37.3,34,8.61684397,Fecundity,2,mix,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c220,34.4,34,7.46793144,Fecundity,2,mix,Repro,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c309,7.95,21,0.760263112,Male.Development.Time,1,single,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c309,7.52,23,0.515945734,Male.Development.Time,2,mix,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c309,8.17,9,0.339411255,Male.Development.Time,2,mix,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c309,7.84,16,0.464758002,Male.Development.Time,2,mix,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c310,8.35,24,0.575499783,Female.Development.Time,1,single,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c310,7.18,25,0.489897949,Female.Development.Time,2,mix,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c310,8.36,36,0.473286383,Female.Development.Time,2,mix,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c310,8.38,32,0.61245408,Female.Development.Time,2,mix,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c311,6.65,10,0.96,Male.Immature.Development.Time,1,single,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c311,5.04,12,0.232163735,Male.Immature.Development.Time,1,single,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c311,5.32,14,0.685054742,Male.Immature.Development.Time,1,single,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c311,5.92,12,0.696491206,Male.Immature.Development.Time,1,single,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c311,5.12,21,0.447213595,Male.Immature.Development.Time,2,mix,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c311,5.25,14,0.360555128,Male.Immature.Development.Time,2,mix,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c311,5.18,11,0.379473319,Male.Immature.Development.Time,2,mix,DevTime,M
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c312,6.81,40,0.9367497,Female.Immature.Development.Time,1,single,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c312,5.14,38,0.486621002,Female.Immature.Development.Time,1,single,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c312,5.64,36,0.650768776,Female.Immature.Development.Time,1,single,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c312,6.21,38,0.547448628,Female.Immature.Development.Time,1,single,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c312,5.1,29,0.529150262,Female.Immature.Development.Time,2,mix,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c312,5.22,36,0.473286383,Female.Immature.Development.Time,2,mix,DevTime,F
+a138,Vangansbeke,Pest Management Science,2015,Amblyseius_swirskii,Terrestrial,Secondary.Consumer,N,c312,5.67,39,0.6164414,Female.Immature.Development.Time,2,mix,DevTime,F
+a139,Venegas,Journal of Shellfish Research,2016,Haliotis_rufescens,Marine,Primary.Consumer,N,c222,0.053884892,450,0.011079137,Growth.Rate,1,single,Size,any
+a139,Venegas,Journal of Shellfish Research,2016,Haliotis_rufescens,Marine,Primary.Consumer,N,c222,0.021352518,450,0.011784173,Growth.Rate,1,single,Size,any
+a139,Venegas,Journal of Shellfish Research,2016,Haliotis_rufescens,Marine,Primary.Consumer,N,c222,0.029208633,450,0.008258993,Growth.Rate,2,mix,Size,any
+a140,Venzon,Oikos,2002,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c223,5.5,10,3.8,Egg.Production.Rate,1,single,Repro,F
+a140,Venzon,Oikos,2002,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c223,1.9,10,1.7,Egg.Production.Rate,1,single,Repro,F
+a140,Venzon,Oikos,2002,Orius_laevigatus,Terrestrial,Secondary.Consumer,N,c223,6.6,10,3.4,Egg.Production.Rate,2,mix,Repro,F
+a141,Vickery,The Biological Bulletin,2000,Pisaster_ochraceus,Marine,Primary.Consumer,N,c224,731.493,50,91.349,Size,1,single,Size,any
+a141,Vickery,The Biological Bulletin,2000,Pisaster_ochraceus,Marine,Primary.Consumer,N,c224,1054.513,50,127.905,Size,1,single,Size,any
+a141,Vickery,The Biological Bulletin,2000,Pisaster_ochraceus,Marine,Primary.Consumer,N,c224,1071.571,50,147.322,Size,3,mix,Size,any
+a142,Walker,Journal of Shellfish Research,1998,Spisula_solidissima,Marine,Primary.Consumer,N,c225,214.294359,60,45.68695382,Size,1,single,Size,any
+a142,Walker,Journal of Shellfish Research,1998,Spisula_solidissima,Marine,Primary.Consumer,N,c225,118.3832173,60,25.34778096,Size,1,single,Size,any
+a142,Walker,Journal of Shellfish Research,1998,Spisula_solidissima,Marine,Primary.Consumer,N,c225,182.3242096,60,45.68695382,Size,2,mix,Size,any
+a142,Walker,Journal of Shellfish Research,1998,Spisula_solidissima,Marine,Primary.Consumer,N,c225,147.0083469,60,39.97075729,Size,2,mix,Size,any
+a142,Walker,Journal of Shellfish Research,1998,Spisula_solidissima,Marine,Primary.Consumer,N,c226,14.1,180,2.54202675,Size,1,single,Size,any
+a142,Walker,Journal of Shellfish Research,1998,Spisula_solidissima,Marine,Primary.Consumer,N,c226,14.4,180,2.675817632,Size,1,single,Size,any
+a142,Walker,Journal of Shellfish Research,1998,Spisula_solidissima,Marine,Primary.Consumer,N,c226,14.3,180,2.675817632,Size,2,mix,Size,any
+a143,Wong,Biological Control,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c228,8,20,4.358898944,Longevity,1,single,Longevity,F
+a143,Wong,Biological Control,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c228,8,20,4.358898944,Longevity,2,mix,Longevity,F
+a143,Wong,Biological Control,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c227,0.435,10,0.03,Adult.Hind.Tibia.Length,1,single,Size,F
+a143,Wong,Biological Control,2013,Orius_insidiosus,Terrestrial,Secondary.Consumer,N,c227,0.451,17,0.04,Adult.Hind.Tibia.Length,2,mix,Size,F
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,6.42,25,2.106561179,Growth.Rate,1,single,Size,any
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,11.1,25,4.409081537,Growth.Rate,1,single,Size,any
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,6.84,25,2.253530563,Growth.Rate,1,single,Size,any
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,10.07,25,4.017163178,Growth.Rate,1,single,Size,any
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,14.07,25,1.420704051,Growth.Rate,1,single,Size,any
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,10.06,25,4.605040716,Growth.Rate,1,single,Size,any
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,10.61,25,5.14392846,Growth.Rate,1,single,Size,any
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,5.39,25,1.322724461,Growth.Rate,1,single,Size,any
+a144,Xing,Aquaculture,2007,Strongylocentrotus_intermedius,Marine,Primary.Consumer,N,c229,10.85,25,4.213122358,Growth.Rate,8,mix,Size,any
+a145,Yan,Aquaculture,2006,Ruditapes_philippinarum,Marine,Primary.Consumer,N,c230,205.9975544,160,16.53707569,Size,1,single,Size,any
+a145,Yan,Aquaculture,2006,Ruditapes_philippinarum,Marine,Primary.Consumer,N,c230,174.959303,160,33.07415138,Size,1,single,Size,any
+a145,Yan,Aquaculture,2006,Ruditapes_philippinarum,Marine,Primary.Consumer,N,c230,200.0955329,160,30.3179721,Size,2,mix,Size,any
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c232,32.25,23,8.536556683,Female.Longevity,1,single,Longevity,F
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c232,27.88,23,5.581594754,Female.Longevity,1,single,Longevity,F
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c232,28.39,23,5.581594754,Female.Longevity,2,mix,Longevity,F
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c233,18.35,23,7.270144428,Male.Longevity,1,single,Longevity,M
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c233,21.25,23,9.333927362,Male.Longevity,1,single,Longevity,M
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c233,22.06,23,5.112553178,Male.Longevity,2,mix,Longevity,M
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c231,27.05,23,12.99670343,Egg.Production,1,single,Repro,F
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c231,79.65,23,24.89036561,Egg.Production,1,single,Repro,F
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c231,97.72,23,28.82294746,Egg.Production,2,mix,Repro,F
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c354,12.62,50,1.26,Development.Time,1,single,DevTime,any
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c354,10.8,50,0.56,Development.Time,1,single,DevTime,any
+a146,Zhi,Entomologica Experimentalis et Applicata,2005,Frankliniella_occidentalis,Terrestrial,Primary.Consumer,N,c354,10.52,50,0.42,Development.Time,2,mix,DevTime,any

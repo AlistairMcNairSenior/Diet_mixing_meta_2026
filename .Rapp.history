@@ -1,0 +1,475 @@
+summary(long_MA_var)
+effect_list$Repro$TimeLag<-as.factor(effect_list$Longevity$Year < 2011)#
+#
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~TimeLag-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro)#
+summary(repro_MA_mean)
+effect_list$Repro$TimeLag<-as.factor(effect_list$Longevity$Year < 2011)#
+#
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~TimeLag-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro)#
+summary(repro_MA_mean)
+effect_list$Repro$TimeLag<-as.factor(effect_list$Repro$Year < 2011)
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~TimeLag-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro)#
+summary(repro_MA_mean)
+repro_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Repro, mods=~TimeLag-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro)
+repro_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Repro, mods=~TimeLag-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro)#
+summary(repro_MA_var)
+effect_list$Repro$prior_2011<-as.factor(effect_list$Repro$Year < 2011)#
+#
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~TimeLag-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro)#
+summary(repro_MA_mean)
+effect_list$Repro$prior_2011<-as.factor(effect_list$Repro$Year < 2011)#
+#
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~prior_2011-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro)#
+summary(repro_MA_mean)
+repro_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Repro, mods=~prior_2011-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro)#
+summary(repro_MA_var)
+exp(0.13)
+exp(0.18)
+effect_list$Longevity$prior_2011<-as.factor(effect_list$Longevity$Year < 2011)#
+#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity)#
+summary(long_MA_mean)
+long_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Longevity, mods=~ prior_2011-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity)#
+summary(long_MA_var)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity[which(effect_list$Longevity$Year < 2011),which(effect_list$Longevity$Year < 2011)], random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity[which(effect_list$Longevity$Year < 2011),])
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity[which(effect_list$Longevity$Year < 2011),which(effect_list$Longevity$Year < 2011)], random=list(~1|Comparison.ID, ~1|Effect.ID), data=effect_list$Longevity[which(effect_list$Longevity$Year < 2011),])
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity[which(effect_list$Longevity$Year < 2011),which(effect_list$Longevity$Year < 2011)], random=list(~1|Effect.ID), data=effect_list$Longevity[which(effect_list$Longevity$Year < 2011),])
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=v_lnRR, random=list(~1|Effect.ID), data=effect_list$Longevity[which(effect_list$Longevity$Year < 2011),])
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~prior_2011-1|Consumer.Sp, ~prior_2011-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~prior_2011-1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity)
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~prior_2011-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity)
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity1)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity)
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="GEN")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="HCS")
+summary(long_MA_mean)
+?rma.mv
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="CS")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="HCS")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="UN")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011-1, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~prior_2011-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="HCS")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~prior_2011, random=list(~prior_2011-1|Comparison.ID, ~1|Consumer.Sp, ~prior_2011-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="HCS")
+summary(long_MA_mean)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="HCS")#
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_mean)
+long_MA_car<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+long_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_var)
+effect_list$Repro$old_data<-as.factor(effect_list$Repro$Year < 2011)#
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro, struct="DIAG")#
+summary(repro_MA_mean)
+repro_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Repro, mods=~old_data-1, random=list(~old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro, struct="DIAG")#
+summary(repro_MA_var)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~Year, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+long_MA_mean
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~Year, random=list(~ Year|Comparison.ID, ~1|Consumer.Sp, ~ Year|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~Year, random=list(~ Year|Comparison.ID, ~1|Consumer.Sp, ~ Year|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="HCS")
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~Year, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_mean)
+long_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Longevity, mods=~Year, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_var)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+exp(-0.08)
+long_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_var)
+exp(0.23)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2010)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)#
+#
+long_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_var)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2012)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+effect_list$DevTime$old_data<-as.factor(effect_list$DevTime$Year < 2011)#
+dev_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$DevTime, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$DevTime), data=effect_list$DevTime, struct="DIAG")#
+summary(dev_MA_mean)
+effect_list$DevTime$old_data<-as.factor(effect_list$DevTime$Year < 2011)#
+dev_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$DevTime, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$DevTime), data=effect_list$DevTime, struct="DIAG")#
+summary(dev_MA_mean)#
+dev_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$DevTime, mods=~old_data-1, random=list(~old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$DevTime), data=effect_list$DevTime, struct="DIAG")#
+summary(dev_MA_var)
+effect_list$Size$old_data<-as.factor(effect_list$Size$Year < 2011)#
+size_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Size, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Size), data=effect_list$Size, struct="DIAG")#
+summary(size_MA_mean)#
+size_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Size, mods=~old_data-1, random=list(~old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Size), data=effect_list$Size, struct="DIAG")#
+summary(size_MA_var)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=old_data, data=effect_list$Longevity)
+summary(long_MA_var)
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data, scale=old_data, data=effect_list$Longevity)
+summary(long_MA_var)
+long_MA_var<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=old_data, data=effect_list$Longevity)
+summary(long_MA_var)
+long_MA_var<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=old_data, data=effect_list$Longevity, test="t")
+summary(long_MA_var)
+long_MA_var<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Longevity)
+summary(long_MA_var)
+long_MA_var<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Longevity)
+summary(long_MA_var)
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_var)
+long_MA_var<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_var)#
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_var)
+repro_MA_var<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Repro)
+summary(repro_MA_var)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_mean)#
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_var)
+repro_MA_var<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~old_data, data=effect_list$Repro)
+summary(repro_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Repro)
+summary(repro_MA_var)
+summary(repro_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Repro)#
+summary(repro_MA_mean)#
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~old_data, data=effect_list$Longevity)#
+summary(repro_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Repro)
+summary(repro_MA_mean)
+exp(-0.6858)
+exp(-1.0145)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_mean)
+plot(effect_list$Year, effect_list$Longevity)
+plot(effect_list$Longevity$Year, effect_list$Longevity$lnRR)
+abline(a=-34.7151, b=0.0172)
+plot(effect_list$Longevity$Year, effect_list$Longevity$lnRR, cex=1/sqrt(effect_list$Longevity$v_lnRR))
+plot(effect_list$Longevity$Year, effect_list$Longevity$lnRR, cex=1/sqrt(effect_list$Longevity$v_lnRR)/10)
+abline(a=-34.7151, b=0.0172)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Repro)#
+summary(repro_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year-1, scale=~Year-1, data=effect_list$Repro)
+summary(repro_MA_mean)
+effect_list$Repro$old_data<-as.factor(effect_list$Repro$Year < 2011)#
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro, struct="DIAG")#
+summary(repro_MA_mean)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year-1, scale=~Year-1, data=effect_list$Repro)#
+summary(repro_MA_mean)
+plot(effect_list$Repro$old_data, effect_list$Repro$lnRR)
+plot(effect_list$Repro$old_data, effect_list$Repro$lnCVR)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_mean)#
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_var)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Size)#
+summary(size_MA_mean)#
+size_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Size)#
+summary(size_MA_var)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$DevTime)#
+summary(dev_MA_mean)#
+dev_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$DevTime)#
+summary(dev_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_mean)#
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_var)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Size)#
+summary(size_MA_mean)#
+size_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Size)#
+summary(size_MA_var)#
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$DevTime)#
+summary(dev_MA_mean)#
+dev_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$DevTime)#
+summary(dev_MA_var)#
+#
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_mean)#
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_var)#
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_mean)#
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_var)
+length(effect_list)
+for(i in 1:length(effect_list)){#
+	effect_list[[i]]$old_data<-as.factor(effect_list[[i]]$Year < 2011)#
+}
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~ old_data-1, scale=~ old_data-1, data=effect_list$Size)#
+summary(size_MA_mean)#
+size_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~ old_data-1, scale=~ old_data-1, data=effect_list$Size)#
+summary(size_MA_var)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Size)#
+summary(size_MA_mean)#
+size_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Size)#
+summary(size_MA_var)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$DevTime)#
+summary(dev_MA_mean)#
+dev_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~old_data-1, data=effect_list$DevTime)#
+summary(dev_MA_var)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$DevTime)#
+summary(dev_MA_mean)#
+dev_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$DevTime)#
+summary(dev_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_mean)#
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_mean)#
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_var)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_mean)#
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data, data=effect_list$Repro)#
+summary(repro_MA_mean)#
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~old_data, data=effect_list$Repro)#
+summary(repro_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Repro)#
+summary(repro_MA_mean)#
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Repro)#
+summary(repro_MA_var)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Longevity)#
+summary(long_MA_mean)#
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Longevity)#
+summary(long_MA_var)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_mean)#
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_var)
+plot_data<-effect_list$Longevity
+plot_data<-effect_list$Longevity#
+plot_data$Precision<-1/sqrt(plot_data$v_lnCVR)#
+plot_model<-long_MA_var#
+#
+C<-ggplot(plot_data, aes(x=Year, y=lnCVR, size=Precision)) +#
+  geom_point(alpha=0.3) +#
+  geom_hline(yintercept=0, lty=2) +#
+  geom_abline(intercept=plot_model$b[1], slope=plot_model$b[2]) +#
+  theme_bw() + #
+  labs(x="Publication Year", y="lnCVR", subtitle="C. Reproductive Function") +#
+  theme(legend.position = c(0.85,0.15), legend.background = element_blank(), axis.text = element_text(size = axis.text_size), plot.subtitle = element_text(size = axis.text_size))
+plot_data<-effect_list$Longevity#
+plot_data$Precision<-1/sqrt(plot_data$v_lnCVR)#
+plot_model<-long_MA_var#
+size_pes<-0.025#
+axis.text_size<-12#
+#
+C<-ggplot(plot_data, aes(x=Year, y=lnCVR, size=Precision)) +#
+  geom_point(alpha=0.3) +#
+  geom_hline(yintercept=0, lty=2) +#
+  geom_abline(intercept=plot_model$b[1], slope=plot_model$b[2]) +#
+  theme_bw() + #
+  labs(x="Publication Year", y="lnCVR", subtitle="C. Reproductive Function") +#
+  theme(legend.position = c(0.85,0.15), legend.background = element_blank(), axis.text = element_text(size = axis.text_size), plot.subtitle = element_text(size = axis.text_size))
+C
+repro_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Repro)#
+summary(repro_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Repro)#
+summary(repro_MA_mean)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Longevity)#
+summary(long_MA_mean)
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Longevity)#
+summary(long_MA_var)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ Year, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~ old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~Year, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~Year, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~Year + I(Year^2), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+library(splines)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+long_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Longevity, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_var)
+effect_list$Repro$old_data<-as.factor(effect_list$Repro$Year < 2011)#
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro, struct="DIAG")#
+summary(repro_MA_mean)
+repro_MA_var<-rma.mv(yi=lnCVR, V=lnCVR_vcv_list$Repro, mods=~bs(Year, df=3), random=list(~old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro, struct="DIAG")#
+summary(repro_MA_var)
+effect_list$Repro$old_data<-as.factor(effect_list$Repro$Year < 2011)#
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro, struct="DIAG")#
+summary(repro_MA_mean)
+effect_list$DevTime$old_data<-as.factor(effect_list$DevTime$Year < 2011)#
+dev_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$DevTime, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$DevTime), data=effect_list$DevTime, struct="DIAG")#
+summary(dev_MA_mean)
+size_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Size, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Size), data=effect_list$Size, struct="DIAG")
+summary(size_MA_mean)
+summary(dev_MA_mean)
+summary(repro_MA_mean)
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=3), random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~ 1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_mean)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=5), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=4), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+effect_list$Longevity$old_data<-as.factor(effect_list$Longevity$Year < 2011)#
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=2), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")#
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+AIC(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~Year, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+AIC(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+AIC(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+AIC(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~bs(Year, df=3), random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+long_MA_mean
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+long_MA_mean
+repro_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Repro, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Repro), data=effect_list$Repro, struct="DIAG")
+repro_MA_mean
+size_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Size, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Size), data=effect_list$Size, struct="DIAG")
+summary(size_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~old_data-1, random=list(~ old_data-1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_mean)
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~old_data-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~ old_data-1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+long_MA_mean
+long_MA_mean<-rma.mv(yi=lnRR, V=lnRR_vcv_list$Longevity, mods=~old_data-1, random=list(~1|Comparison.ID, ~1|Consumer.Sp, ~1|Effect.ID), R=list(Consumer.Sp = phyloM$Longevity), data=effect_list$Longevity, struct="DIAG")
+summary(long_MA_mean)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Longevity)
+summary(long_MA_mean)
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Longevity)#
+summary(long_MA_var)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~Year, scale=~Year, data=effect_list$Repro)#
+summary(repro_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Repro)#
+summary(repro_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Repro)#
+summary(repro_MA_mean)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data-1, scale=~old_data-1, data=effect_list$DevTime)#
+summary(dev_MA_mean)
+long_MA_var<-rma(yi=lnCVR, vi=v_lnCVR, mods=~Year, scale=~Year, data=effect_list$Longevity)#
+summary(long_MA_var)
+long_MA_mean<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data-1, scale=~old_data-1, data=effect_list$Longevity)
+summary(long_MA_mean)
+long_MA_mean<-rma(yi=lnCVR, vi=v_lnCVR, mods=~old_data, scale=~old_data-1, data=effect_list$Longevity)
+summary(long_MA_mean)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~ old_data-1, scale=~ old_data-1, data=effect_list$Size)#
+summary(size_MA_mean)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data-1, data=effect_list$Size)
+summary(size_MA_mean)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Size)
+summary(size_MA_mean)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$DevTime)#
+summary(dev_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Repro)
+summary(repro_MA_mean)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Longevity)
+summary(long_MA_mean)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Size)#
+summary(size_MA_mean)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$DevTime)#
+summary(dev_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Repro)#
+summary(repro_MA_mean)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Longevity)#
+summary(long_MA_mean)
+for(i in 1:length(effect_list)){#
+	effect_list[[i]]$old_data<-as.factor(effect_list[[i]]$Year < 2011)#
+}#
+#
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Size)#
+summary(size_MA_mean)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$DevTime)#
+summary(dev_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Repro)#
+summary(repro_MA_mean)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Longevity)#
+summary(long_MA_mean)
+for(i in 1:length(effect_list)){#
+	effect_list[[i]]$new_data<-as.factor(effect_list[[i]]$Year > 2011)#
+}#
+#
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~old_data, data=effect_list$Size)#
+summary(size_MA_mean)
+for(i in 1:length(effect_list)){#
+	effect_list[[i]]$new_data<-as.factor(effect_list[[i]]$Year > 2011)#
+}#
+#
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Size)#
+summary(size_MA_mean)
+exp(-1.0020)
+exp(-1.0020 -1.13)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~old_data, scale=~old_data, data=effect_list$Size)
+summary(size_MA_mean)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Size)#
+summary(size_MA_mean)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Size)#
+summary(size_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Repro)#
+summary(repro_MA_mean)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Size)#
+summary(size_MA_mean)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$DevTime)#
+summary(dev_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Repro)#
+summary(repro_MA_mean)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Longevity)#
+summary(long_MA_mean)
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Size)#
+summary(size_MA_mean)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Longevity)
+summary(long_MA_mean)
+pb_table2<-data.frame(Trait=c("Body Size", "", "Development Time", "", "Reproductive Function", "", "Lifespan", ""),#
+                     Coef=rep(c("Pre-2011", "Change"), 4),#
+                     lnRR=NA,#
+                     lnRR_CI_lower=NA,#
+                     lnRR_CI_lower=NA,#
+                     log_Tau=NA,#
+                     Tau_CI_lower=NA,#
+                     Tau_CI_lower=NA)#
+#
+for(i in 1:length(effect_list)){#
+	effect_list[[i]]$new_data<-as.factor(effect_list[[i]]$Year > 2011)#
+}
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Size)
+summary(size_MA_mean)
+names(size_MA_mean)
+size_MA_mean$b
+size_MA_mean$beta
+size_MA_mean$alphas
+names(summary(size_MA_mean))
+size_MA_mean$time
+size_MA_mean$tau2
+size_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Size)#
+summary(size_MA_mean)
+dev_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$DevTime)#
+summary(dev_MA_mean)
+repro_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Repro)#
+summary(repro_MA_mean)
+long_MA_mean<-rma(yi=lnRR, vi=v_lnRR, mods=~new_data, scale=~new_data, data=effect_list$Longevity)#
+summary(long_MA_mean)
