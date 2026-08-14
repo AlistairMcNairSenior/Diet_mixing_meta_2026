@@ -299,7 +299,7 @@ d<-ggplot(data[which(data$Trait_type == "Longevity"),], aes(x = z_lnX, y = z_lnS
 cor.test(data[which(data$Trait_type == "Longevity"),]$z_lnX, data[which(data$Trait_type == "Longevity"),]$z_lnSD, use='pairwise.complete.obs')
 
 # Figure 1
-CairoPDF("plots/Mean_SD_cor.pdf", height=4*2, width=4*2)
+CairoPDF("plots/figure_S2.pdf", height=4*2, width=4*2)
 
 grid.arrange(a,b,c,d, nrow=2, ncol=2)
 
