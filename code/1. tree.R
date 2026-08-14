@@ -35,7 +35,7 @@ plot_titles<-c("Development Time", "Lifespan", "Reproductive Function", "Body Si
 cov_mats<-list()
 
 # Plot the trees
-pdf("plots/tree.pdf", height=10, width=10)
+pdf("plots/figure_S3.pdf", height=10, width=10)
 par(mfrow=c(2,2), mar=c(0.5, 0.5, 1.5, 0.5))
 
 # Loop for each trait type
