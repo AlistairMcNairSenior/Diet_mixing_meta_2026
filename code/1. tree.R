@@ -27,6 +27,24 @@ for(i in 1:length(missing_taxa)){
 cbind(sort(unique(data$Consumer.Sp)), sort(unique(pseudo_data$Consumer.Sp)))
 # Looks good
 
+# Get the taxonomic info
+unique_species<-sort(unique(data$Consumer.Sp)) 
+unique_pseudo<-sort(unique(pseudo_data$Consumer.Sp))
+ott_ids<-tnrs_match_names(names=unique_pseudo)$ott_id
+info<-taxonomy_taxon_info(ott_ids, include_lineage=T)
+lineage<-tax_lineage(info)
+
+# Create a summary taxon table 
+taxonomic_data<-data.frame(Kingdom=NA, Phylum=NA, Class=NA, Order=NA, Family=NA, Species=unique_species, n_articles=NA, n_experiments=NA)
+for(i in 1:nrow(taxonomic_data)){
+  kpcof<-lineage[[i]][match(c("kingdom", "phylum", "class", "order", "family"), lineage[[i]]$rank), 2]
+  taxonomic_data[i,c(1:5)]<-kpcof
+  # How many experiments for each species
+  taxonomic_data[i,7]<-length(unique(data$Article.ID[which(data$Consumer.Sp == taxonomic_data$Species[[i]])]))
+  taxonomic_data[i,8]<-length(unique(data$Comparison.ID[which(data$Consumer.Sp == taxonomic_data$Species[[i]])]))
+}
+write.table(taxonomic_data, file="tables/taxonomic_data.csv", row.names=F, col.names=names(taxonomic_data), sep=",")
+
 # We will make a tree for each subset of the data (i.e., each trait type)
 traits<-unique(data$Trait_type)
 plot_titles<-c("Development Time", "Lifespan", "Reproductive Function", "Body Size")
@@ -50,7 +68,7 @@ for(i in 1:length(traits)){
 
 	# # Get the tree and save in newick format
 	taxa<-tnrs_match_names(names=sp)
-#	tree<-tol_induced_subtree(ott_ids=ott_id(taxa), file=paste0("data/", traits[i], "_tree.tre"))
+	tree<-tol_induced_subtree(ott_ids=ott_id(taxa), file=paste0("data/", traits[i], "_tree.tre"))
 
 	# Read in using ape and convert to ultrametric then to cor matrix
 	tree<-read.tree(paste0("data/", traits[i], "_tree.tre"))
