@@ -190,7 +190,7 @@ D<-ggplot(plot_plot, aes(x=yi, y=effect, color=effect, fill=effect, size=Precisi
   annotate("segment", x=MA_table$CI_lower[rows[1]], xend=MA_table$CI_upper[rows[1]], y=2, yend=2, size=1.4, col="firebrick") +
   annotate("segment", x=MA_table$CI_lower[rows[2]], xend=MA_table$CI_upper[rows[2]], y=1, yend=1, size=1.4, col="firebrick") 
 
-pdf("plots/orchard_plot.pdf", height=10, width=10)
+pdf("plots/figure_2.pdf", height=10, width=10)
 
 grid.arrange(A, B, C, D, ncol=2, nrow=2)
 
@@ -512,7 +512,7 @@ D<-ggplot(plot_data, aes(x=yi, y=cat, color=effect, fill=effect, size=Precision)
   annotate("segment", x=plot_model_lnRR$ci.lb[2], xend=plot_model_lnRR$ci.ub[2], y=4, yend=4, size=1.4, col="firebrick")
 
 
-pdf("plots/MetaReg1_plot.pdf", height=10, width=15)
+pdf("plots/figure_3.pdf", height=10, width=15)
 
 grid.arrange(A, B, C, D, layout_matrix=rbind(c(1,1,2,2),
                                                 c(3,3,4,4)))
@@ -521,7 +521,7 @@ dev.off()
 
 
 #########################################
-######## FIGURE2 FOR META_REG ###########
+######$## FIGURE FOR META_REG ###########
 #########################################
 
 # Colours for points
@@ -605,7 +605,7 @@ E<-ggplot(plot_data, aes(x=lnRR, y=Habitat, color=Habitat, fill=Habitat, size=Pr
   annotate("segment", x=plot_model$ci.lb[2], xend=plot_model$ci.ub[2], y=2, yend=2, size=1.4, col="firebrick") 
 
 
-pdf("plots/MetaReg2_plot.pdf", height=10, width=15)
+pdf("plots/figure_4.pdf", height=10, width=15)
 
 grid.arrange(A, B, C, D, E, layout_matrix=rbind(c(1,1,2,2,3,3),
                                           c(4,4,4,5,5,5)))
