@@ -15,7 +15,7 @@ httr::set_config(httr::config(ssl_verifypeer = FALSE))
 data<-read.csv("data/full_data_phil_trans.csv")
 
 # Create a copy of the dataset with some species recoded as some taxa as only their sister species can be found on iOTL (note these were found by trial and error) - sister species found by checking publiched phylogenies
-# These can be recoded on the tree after
+# These can be re-coded on the tree after
 pseudo_data<-data
 missing_taxa<-c("Nabis_roseipennis", "Balaustium_leander", "Cheiracanthium_inclusum", "Nitocra_affinis", "Erigone_atra", "Ostrea_edulis")
 substitute_taxa<-c("Nabis_rufusculus", "Balaustium_murorum", "Cheiracanthium_punctorium", "Nitocra_hibernica", "Erigone_aletris", "Ostrea_denselamellosa")
