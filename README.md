@@ -6,12 +6,13 @@ Running through the scripts in order 1.tree.R with the raw dataset full_data_phi
 
 The contents of the directories are as follows:
 
-code
+folder code
 1. tree.R - an R script to generate the phylogenetic covariance matrices for the analyses.
 2. data_preperation.R - an R script to calculate pairwise effect sizes and the covariance matrices for sampling errors, as well as other data processing steps.
 3. models.R - an R script to run the final models and generate tables and figures. 
 
-data
+folder data
+
 full_data_phil_trans.csv - a csv file with the raw extracted data.
 
 DevTime_tree.tre - a tre file containing the tree for species in the developmental time analyses (created by the script 1. tree.R)
@@ -30,7 +31,7 @@ lnCVR_vcv.Rds - an rds file containing a list of the estimated variance-covarian
 
 lnRR_vcv.Rds - an rds file containing a list of the estimated variance-covariance matrices for sampling errors on lnRR (created by the script 2. data_preperation.R)
 
-plots
+folder plots
 
 figure_2.pdf - a pdf file for figure_2 (created by the script 3. models.R).
 
@@ -43,7 +44,7 @@ figure_S2.pdf - a pdf file for figure_S2 (created by the script 2. data_preperat
 figure_S3.pdf - a pdf file for figure_S3 (created by the script 1. tree.R).
 
 
-tables
+folder tables
 
 MA_table.csv - a csv file containing meta-analytic estimates (created by the script 3. models.R).
 
